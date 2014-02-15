@@ -37,7 +37,7 @@
   <h4>Credits</h4>
 	
 	<ul class="people"> 
-		<li>Publicist &mdash; TBA, UCSB Music Department</li>
+		<li>Publicist &mdash; Elizabeth Cutright, UCSB Music Department</li>
 		<li>Public Events Manager, Music Department &mdash; Skip Stecker</li>
 	
     <li>Operations Manager, Music Department&mdash;Patrick Chose</li>
@@ -58,13 +58,13 @@
 <dl class="committee">
  <dt>Leslie Hogan, Chair</dt><dd>College of Creative Studies</dd>
  <dt>Clarence Barlow</dt><dd>Music Department</dd>
+ <dt>Alexis Crawshaw</dt><dd>Media Arts and Technology Program</dd>
  <dt>Jeremy Haladyna</dt><dd>Music Department/College of Creative Studies</dd>
- <dt>Ruth Hellier-Tinoco</dt>
-     <dd>Music Department/Theater and Dance Department</dd>
-
+ <dt>Margo Halsted</dt><dd>Music Department</dd>
+ <dt>Federico Llach</dt><dd>Music Department</dd>
+ <dt>Nicholas Norton</dt><dd>Music Department</dd>
  <dt>Fernando Rinc&oacute;n Estrada</dt><dd>Music Department</dd>
  <dt>Curtis Roads</dt><dd>Media Arts and Technology/CREATE</dd>
- <dt>Katherine Saxon</dt><dd>Music Department</dd>
  <dt>Matthew Wright</dt><dd>CREATE Principal Development Engineer</dd>
 </dl>
 
