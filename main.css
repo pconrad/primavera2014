@@ -1,0 +1,189 @@
+a { color: #461f75; }
+
+body {
+font-family: helvetica, arial, sans-serif; font-size: 13px;
+color: #000;
+/* background: #ffffdd; */
+background: white;
+}
+
+/* see http://www.pooliestudios.com/projects/iconize/ */
+a[href$='.mp3'] { 
+	padding: 5px 20px 5px 0;
+	background: transparent url(music.gif) no-repeat center right;
+}
+
+#header h1 {clear:none;}
+#header h2 {clear:none;}
+#header h3 {clear:none;}
+
+
+
+#header { 
+width:800px;
+height: 230px;
+background-color: #FAE89E;
+background-image:url(images/PrimaveraHeaderButterfly2014_799x230.jpg.png);
+background-repeat:no-repeat;
+padding-left: 0px; padding-top: 0px;
+margin: 10px 0px 10px 0px;
+color: #000;
+border: inset 10px #669933;
+}
+
+
+
+#headerNoDisp { 
+height: 10px; 
+}
+
+
+h1 { margin: 0; 
+font-size: 350%; 
+/* background: #000; */
+color: black;
+width: 5.1em; 
+padding-left: 0px;
+}
+h1 a { color: #black; text-decoration: none; }
+
+h3 { 
+font-size: 200%; color: black; 
+margin-top: .5em; margin-bottom: 0;
+padding-left: 0px; 
+ width: 23.2em;
+}
+h3.date {  width: 11.6em; color: black;}
+h3.dedication { color: #5460ab; width: 11.4em; }
+
+h2 { 
+font-size: 175%; 
+margin-top: 0; margin-left: -5px; padding-top: 11px; padding-left: 5px; padding-bottom: 2px;
+background-image:url(images/MenuBackgroundFaded_526w_489h.jpg);
+background-repeat:repeat;
+
+}
+h4 { margin-bottom: 0; font-size: 125%; }
+
+#contain {
+padding: 0 0; margin-left: 30px; margin-top: 0;
+width: 500px;
+}
+
+dt, dd, p { line-height: 130%; }
+dt { font-weight: bold; margin-top: 1.5em; clear: left; }
+.featured dt { font-size: 125%;  /* border: 1px solid green;*/}
+dd { margin-left: 0;  margin-top:0px; /* border:1px solid red;*/}
+.biography { font-size: 90%; }
+.bio-picture { 
+margin-top: 1em; margin-right: 1em; margin-bottom: 0em; 
+float: left; 
+font-size: 90%; 
+}
+
+ul { margin: 0; padding: 0; list-style-type: none; }
+ul.people { margin-top: 1em; }
+.people li { line-height: 130%; }
+
+ul.featured-list { padding-left: .85em; margin-left: .1em; }
+ul.featured-list li { 
+background: url(arrow.png) no-repeat 0 .3em;
+padding-left: 1em; padding-bottom: .3em;
+}
+
+ul.index { margin-top: 1.2em; }
+
+.committee dt { font-weight: normal; margin-top: 1em; }
+
+.details { font-weight: bold; }
+
+.caption { font-size: 85%; }
+
+.footer { 
+margin-top: 1.5em; margin-left: 1.5em; margin-bottom: .5em; padding-top: .5em; 
+width: 500px; 
+text-align: center; font-size: 85%; 
+color: #444; 
+clear: both;
+}
+.footer a { color: #444; }
+.copyright { border: none; margin-top: 0; padding-top: 0; }
+
+#title { margin: 1.5em 0 0 1.5em; }
+
+
+#navcontainer { margin-left: 539px; margin-top: 0; padding-top: 0; height: 0; }
+#navcontainer ul { 
+margin: 0; padding: 0; padding-top: 15px; margin-bottom: -2px; 
+list-style-type: none; 
+width: 250px; 
+background-image:url(images/MenuBackgroundFaded_526w_489h.jpg);
+background-repeat:repeat-y;
+}
+#navcontainer li { margin: 0 0 .2em 0; }
+.break { padding-bottom: 1.5em; }
+#breakAfter1 { padding-bottom: 1.5em; }
+
+
+#navcontainer a {
+font-size: 125%;
+display: block;
+color: #black; font-weight: bold;
+padding: .2em .8em;
+text-decoration: none;
+}
+
+#navcontainer * a {color: black }
+
+#navcontainer a:hover { color:#930;  }
+#navcontainer li.active a { color: black; background-color: #7a4; }
+#navcontainer li.active ul li a { color: black; background-color: #7a4;  }
+
+#navcontainer li.active a:hover { color: #930; background-color: #7a4; }
+#navcontainer li.active ul li a:hover { color: #930;  background-color: #7a4; }
+
+
+
+#navcontainer ul ul { 
+padding-top: 0; margin-bottom: 0; 
+width: 100px;
+background: none;
+}
+#navcontainer ul ul a { 
+padding-left: 30px;
+font-size: 100%; 
+ width: 16em;
+
+
+}
+
+
+
+
+#dedication p { font-size: 90%; }
+
+
+
+dl.featured dt { margin-top: 1em; padding-top: 1em; clear: both;}
+
+#headerNoDisp h1 { 
+color: white; background-color: white;
+font-size: 2px;
+margin: 0 0 0 0; padding: 0 0 0 0;
+}
+
+#headerNoDisp h3 { 
+color: white; background-color: white;
+font-size: 2px;
+margin: 0 0 0 0; padding: 0 0 0 0;
+}
+
+#headerNoDisp h2 { 
+color: white; background-color: white;
+font-size: 2px;
+margin: 0 0 0 0; padding: 0 0 0 0;
+}
+
+
+
+ul.bulletList li {margin-left:1em; padding-right:1em; list-style:disc; padding-bottom:3px;}

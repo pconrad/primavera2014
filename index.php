@@ -57,7 +57,7 @@ Halsted, and Alexis Crawshaw.</p>
 
 <p><b>Ensemble for Contemporary Music (ECM)</b></p>
 
-<p>Members of UCSB’s ECM will perform works by Cristina Lord, Peter Racine Fricker, Emma Lou Diemer, and others.</p>
+<p>Members of UCSB's ECM will perform works by Cristina Lord, Peter Racine Fricker, Emma Lou Diemer, and others.</p>
 
 <p>Admission $10 general/$5 student</p>
 
@@ -68,6 +68,8 @@ Halsted, and Alexis Crawshaw.</p>
 <p><b>CREATE<b></p>
 
 <p>Admission $10 general/$5 student</p>
+
+<p>Electroacoustic music from UCSB's Center for Research in Electronic Arts Technology (CREATE), with guest artists Elizabeth Hoffman from NYU and Marcus Schmickler, Visiting Professor at Cal Arts.  It will also feature the World Premiere of a new electronic work by Joel Feigin, musical assistant Ron Sedgwick.</p>
 
 
 </dl> <!-- END LIST OF EVENTS HERE -->
