@@ -163,12 +163,16 @@ School. His website can be found at <a href="http://www.joelfeigin.com">www.joel
     
 -->
 
-<dt id="LastNameHere"> <p><span style="color:red;">Name goes here.</span></p></dt>
-	
-     <dd><a href="pianomatic"> <span style="color:red;">Performance link goes here.</span></a> &mdash; <span style="color:red;">Date goes here.</span></dd>
-			<dd class="bio-picture"><img src="Barlow2_copy.jpg" alt="Clarence Barlow" width="248" height="248" /></dd>
+<dt id="Garcia"> <p>Anthony Paul Garcia</p></dt>
+	<dd>Made in California, Now Hear Ensemble &mdash; April 24</dd>
+			
 		  <dd class="biography">	
-	        <p><span style="color:red;">Biography goes here.</span></p>
+	        <p>Anthony Paul Garcia, a native of Phoenix, AZ, has been percussing since the age of 13. Anthony has enjoyed playing with an eclectic variety of ensembles throughout his 12 years of performance, including: marching bands and drum corps, contemporary music ensembles, steel drum ensembles, wind ensembles, orchestras, percussion ensembles, African drumming groups, Brazilian baterias, and laptop orchestras. Anthony has a passion for new music and appreciates any opportunity to perform.</p> 
+<p>
+Anthony is proud to have many key performances in his young career - he has recorded the premiers of Jeremy Haladyna's <i>The Princess of the 9 Cave</i> as well as <i>Xunaam Balam</i> on the album <i>Mayan Time Mayan Tales</i> (released on Innova Records, 2012). Also, in June of 2012 Anthony, along with 47 percussionists and 3 piccolo players, helped mark the west coast premier of John Luther Adams' <i>Inuksuit</i> under the direction of Steven Schick at the Ojai Music Festival. </p>
+<p>
+Anthony is also a composer and has written numerous works for the Now Hear Ensemble. Anthony holds a Bachelors Degree in Music Composition and Theory from Arizona State University as well as a Masters Degree from UC Santa Barbara in Music Composition. Anthony is currently pursuing his PhD in composition from UC Santa Barbara. 
+</p>
     </dd>
 
     
@@ -196,12 +200,14 @@ PaulJohnBritainMasterParis) </p>
     </dd>
 	
     
-  <dt id="LastNameHere"> <p><span style="color:red;">Name goes here.</span></p></dt>
-	
-     <dd><a href="pianomatic"> <span style="color:red;">Performance link goes here.</span></a> &mdash; <span style="color:red;">Date goes here.</span></dd>
-			<dd class="bio-picture"><img src="Barlow2_copy.jpg" alt="Clarence Barlow" width="248" height="248" /></dd>
+  <dt id="Halsted"> <p>Margo Halsted</p></dt>
+     <dd>UCSB Women's Carillon Compositions &mdash; April 21</dd>
+			<dd class="bio-picture"> <dd> </dd>
 		  <dd class="biography">	
-	        <p><span style="color:red;">Biography goes here.</span></p>
+	        <p>Margo Halsted is Associate Adjunct Professor of Music and carillonist at UCSB. In 2008 she began teaching at the UCSB College of Creative Studies with a class in carillon composition. She now teaches cast bell carillon for the Music Department. Halsted retired from the University of Michigan School of Music, Theater and Dance as Associate Professor and Carillonist Emerita. At Michigan she was a member of the organ department, Director of the Stearns Collection of Musical Instruments and teacher of carillon, music history and handbells. Her other university teaching was at UC, Riverside and Michigan State University, and she has presented master classes and lessons at Yale University and Trinity College (CT). She has performed for festivals at: UC, Berkeley; Lake Wales, Florida; Iowa State University, Seclin, France and Barcelona, Spain. Thirty-one of her students have passed the exam to become Carillonneur Members of the Guild of Carillonneurs in North America (GCNA).</p>
+<p>Halsted has performed in all countries with an established carillon tradition, and has been a frequent recitalist and speaker for the meetings of the GCNA and the World Carillon Federation. The GCNA has bestowed on her the Certificate of Extraordinary Service and Honorary Membership. She was the recipient of the Berkeley Medal “For Service to the Carillon Art.” Presently, she is the chair of a new medium-level exam for the GCNA.</p>
+<p>Halsted has degrees in music and education from Stanford University, an M.A. degree in Carillon Performance Practice from UC, Riverside and a diploma from the Netherlands Carillon School. In her capacity as bell consultant she has assisted with the creation of six new carillons and two chimes as well as the renovation of other instruments.
+</p>
     </dd>
     
     
