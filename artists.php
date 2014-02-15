@@ -202,7 +202,7 @@ PaulJohnBritainMasterParis) </p>
  
     <dt id="Halsted">Margo Halsted</dt>
      <dd>UCSB Women's Carillon Compositions &mdash; April 21</dd>
-			<dd class="bio-picture"> <dd> </dd>
+			<dd class="bio-picture"><img scr= "images/Margo.bell.jpg" width="200" height="308"/></dd>
 		  <dd class="biography">	
 	        <p>Margo Halsted is Associate Adjunct Professor of Music and carillonist at UCSB. In 2008 she began teaching at the UCSB College of Creative Studies with a class in carillon composition. She now teaches cast bell carillon for the Music Department. Halsted retired from the University of Michigan School of Music, Theater and Dance as Associate Professor and Carillonist Emerita. At Michigan she was a member of the organ department, Director of the Stearns Collection of Musical Instruments and teacher of carillon, music history and handbells. Her other university teaching was at UC, Riverside and Michigan State University, and she has presented master classes and lessons at Yale University and Trinity College (CT). She has performed for festivals at: UC, Berkeley; Lake Wales, Florida; Iowa State University, Seclin, France and Barcelona, Spain. Thirty-one of her students have passed the exam to become Carillonneur Members of the Guild of Carillonneurs in North America (GCNA).</p>
 <p>Halsted has performed in all countries with an established carillon tradition, and has been a frequent recitalist and speaker for the meetings of the GCNA and the World Carillon Federation. The GCNA has bestowed on her the Certificate of Extraordinary Service and Honorary Membership. She was the recipient of the Berkeley Medal "For Service to the Carillon Art." Presently, she is the chair of a new medium-level exam for the GCNA.</p>
