@@ -35,5 +35,5 @@ function genActive($item)
 			<li><a href="http://www.ccs.ucsb.edu/primavera/2007/">Primavera 2007</a></li>
 			<li class="break"><a href="http://www.ccs.ucsb.edu/primavera/2006/">Primavera 2006</a></li>
 		</ul>
-<span><img src="images/incendia_ex_loxodrome_by_nic022-d66y3ho.jpg" width="250"  alt="Floral Loxodrome, by Nicholas Jackson"/></span>
+<span><img src="images/incendia_ex_loxodrome_by_nic022-d66y3ho_SCALED.jpg" width="250"  alt="Floral Loxodrome, by Nicholas Jackson"/></span>
 	</div>
