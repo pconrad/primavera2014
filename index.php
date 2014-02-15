@@ -163,6 +163,7 @@ from a heart-rate sensor.</p>
 Sponsored by the Corwin Chair in Music Composition.</p>
 
 <p>Karl Geiringer Hall. Free</p>
+<p><i>Sponsored by the Corwin Chair in Music Composition.</i></p>
 
 </dd>
 
