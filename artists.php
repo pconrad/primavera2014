@@ -59,7 +59,6 @@ Barlow, who studied composition under Bernd Alois Zimmermann (1968-1970) and Kar
 	
 
 <dt id="Crawshaw"> <p>Alexis Story Crawshaw</span></p></dt>
-	
      <dd>UCSB Women's Carillon Compositions &mdash; April 21</dd>
          <dd>Des Gestes Touchants &mdash; April 24</dd>
              <dd>La perception transamplithéâtrale &mdash; April 25</dd>
@@ -73,12 +72,17 @@ Crawshaw has received notable recognition for her electroacoustic works, in part
     </dd>
     
     
-    <dt id="LastNameHere"> <p><span style="color:red;">Name goes here.</span></p></dt>
-	
-     <dd><a href="pianomatic"> <span style="color:red;">Performance link goes here.</span></a> &mdash; <span style="color:red;">Date goes here.</span></dd>
-			<dd class="bio-picture"><img src="Barlow2_copy.jpg" alt="Clarence Barlow" width="248" height="248" /></dd>
+    <dt id="Diemer"> <p>Emma Lou Diemer</p></dt>
+     <dd>UCSB Womens Carillon Compositions &mdash; April 21</dd>
+			
 		  <dd class="biography">	
-	        <p><span style="color:red;">Biography goes here.</span></p>
+	        <p>Emma Lou Diemer was born in Kansas City, Missouri, on November 24, 1927. Her father, George Willis Diemer, was an educator (college president); her mother, Myrtle Casebolt Diemer, was a church worker and homemaker. Emma Lou played the piano and composed at a very early age and became organist in her church at age 13. Her great interest in composing music continued through College High School in Warrensburg, MO, and she majored in composition at the Yale Music School (BM, 1949; MM, 1950) and at the Eastman School of Music (Ph.D, 1960). She studied in Brussels, Belgium on a Fulbright Scholarship and spent two summers of composition study at the Berkshire Music Center.
+She taught in several colleges and was organist at several churches in the Kansas City area during the 1950s. From 1959-61 she was composer-in-residence in the Arlington, VA schools under the Ford Foundation Young Composers Project, and composed many choral and instrumental works for the schools, a number of which are still in publication. She was consultant for the MENC Contemporary Music Project before joining the faculty of the University of Maryland where she taught composition and theory from 1965-70. In 1971 she moved from the East Coast to teach composition and theory at the University of California, Santa Barbara. At UCSB she was instrumental in founding the electronic/computer music program. In 1991 she became Professor Emeritus at UCSB.</p>
+<p>
+Through the years she has fulfilled many commissions (orchestral, chamber ensemble, keyboard, choral, vocal) from schools, churches, and professional organizations. Most of her works are published. She has received awards from Yale University (Certificate of Merit), The Eastman School of Music (Edward Benjamin Award), the National Endowment for the Arts (electronic music project), Mu Phi Epsilon (Certificate of Merit), the Kennedy Center Friedheim Awards (for piano concerto), the American Guild of Organists (Composer of the Year), the American Society of Composers, Authors, and Publishers/ASCAP (annually since 1962 for performances and publications), the Santa Barbara Symphony (composer-in-residence, 1990-92), the University of Central Missouri (honorary doctorate), and many others.</p>
+<p>She is an active keyboard performer (piano, organ, harpsichord, synthesizer), and in the last few years has given concerts of her own music at Washington National Cathedral, St. Mary's Cathedral and Grace Cathedral in San Francisco, Cathedral of Our Lady of the Angels in Los Angeles, and elsewhere.</p>
+<p>Emma Lou Diemer lives in Santa Barbara, California.
+ </p>
     </dd>
     
     
