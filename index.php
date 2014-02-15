@@ -14,7 +14,7 @@
 	<?php require("navcontainer.php"); ?>
 	
 		
-	<h2>Schedule</h2>
+
 	
 	<p class="caption">For more information,  email Leslie Hogan, leslie.hogan@ccs.ucsb.edu 
 		or call (805)&nbsp;893&ndash;7001.<br /> 
@@ -32,6 +32,12 @@ Elizabeth Hoffman (NYU), Marcus Schmickler (visiting professor at
 CalArts), Lucia Mense of Cologne, Germany, the Now Hear Ensemble, and
 Ignition Duo.
 </p>      
+
+	<h2 id="schedule">Schedule</h2>
+
+
+	<h2 id="details">Event Details</h2>
+
       
 <dl> <!-- START LIST OF EVENTS HERE -->
 
