@@ -2,3 +2,4 @@ php_flag display_errors on
 RewriteEngine on
 RewriteRule ^press$ press.php?menuItem=120 [L]
 RewriteRule ^credits-sponsors$ credits-sponsors.php?menuItem=140 [L]
+RewriteRule ^artists$ artists.php?menuItem=130 [L]
