@@ -51,12 +51,28 @@ Halsted, and Alexis Crawshaw.</p>
 
 </dd>
 
+<!-- next event -->
 
+<dd>Tuesday, April 22, 8 PM Lotte Lehmann Concert Hall</dd>
+
+<p><b>Ensemble for Contemporary Music (ECM)</b></p>
+
+<p>Members of UCSB’s ECM will perform works by Cristina Lord, Peter Racine Fricker, Emma Lou Diemer, and others.</p>
+
+<p>Admission $10 general/$5 student</p>
+
+<!-- next event -->
+
+<dd>Wednesday, April 23, 8 PM. Lotte Lehmann Concert Hall</dd>
+
+<p><b>CREATE<b></p>
+
+<p>Admission $10 general/$5 student</p>
 
 
 </dl> <!-- END LIST OF EVENTS HERE -->
       
-    <p>More events coming soon!</p>
+    <h2>More events coming soon!</h2>
 
 
 </div>
