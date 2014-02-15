@@ -21,17 +21,24 @@
 		<ul class="featured-list">
         
 			<li><a href="#Barlow">Clarence Barlow</a></li>
-			<li><a href="Crawshaw">Alexis Crawshaw</a></li>
+			<li><a href="#Crawshaw">Alexis Story Crawshaw</a></li>
+			<li><a href="#Diemer">Emma Lou Diemer</a></li>
             <li><a href="#Feigin">Joel Feigin</a></li>
+            <li><a href="#Garcia">Anthony Paul Garcia</a></li> 
            	<li><a href="#Haladyna">Jeremy Haladyna</a></li>
            	<li><a href="#Halsted">Margo Halsted</a></li>
-           	
+           		<li><a href="#Hoffman">Elizabeth Hoffman</a></li>
+           		<li><a href="#Hunt">Joel Hunt</a></li> 
+           		<li><a href="#Ignition">Ignition Duo</a></li> 
+           		<li><a href="#Kritzberg">Amanda Kritzberg</a></li> 
            	<li><a href="#Llach">Federico Llach</a></li>
+           	<li><a href="#Mense">Lucia Mense</a></li> 
+           	<li><a href="#Morgan">Jonathan Morgan</a></li> 
            	<li><a href="#Novak">Marcos Novak</a></li>
-	              
 	            <li><a href="#Roads">Curtis Roads</a></li>  
-	              
-	              
+	              <li><a href="#Schmickler">Marcus Schmickler</a></li> 
+	              <li><a href="#Watel">Maud Watel Kazak</a></li> 
+	              <li><a href="#Wright">Matt Wright</a></li> 
 	              
   </ul>
 		
@@ -47,7 +54,25 @@
     </dd>
 	
 
-
+<dt id="LastNameHere"> <p><span style="color:red;">Name goes here.</span></p></dt>
+	
+     <dd><a href="pianomatic"> <span style="color:red;">Performance link goes here.</span></a> &mdash; <span style="color:red;">Date goes here.</span></dd>
+			<dd class="bio-picture"><img src="Barlow2_copy.jpg" alt="Clarence Barlow" width="248" height="248" /></dd>
+		  <dd class="biography">	
+	        <p><span style="color:red;">Biography goes here.</span></p>
+    </dd>
+    
+    
+    <dt id="LastNameHere"> <p><span style="color:red;">Name goes here.</span></p></dt>
+	
+     <dd><a href="pianomatic"> <span style="color:red;">Performance link goes here.</span></a> &mdash; <span style="color:red;">Date goes here.</span></dd>
+			<dd class="bio-picture"><img src="Barlow2_copy.jpg" alt="Clarence Barlow" width="248" height="248" /></dd>
+		  <dd class="biography">	
+	        <p><span style="color:red;">Biography goes here.</span></p>
+    </dd>
+    
+    
+    
 <dt id="Feigin">Joel Feigin</dt>
     
                <dd>CREATE &mdash;April 23</dd>
@@ -124,7 +149,13 @@ School. His website can be found at <a href="http://www.joelfeigin.com">www.joel
     
 -->
 
-
+<dt id="LastNameHere"> <p><span style="color:red;">Name goes here.</span></p></dt>
+	
+     <dd><a href="pianomatic"> <span style="color:red;">Performance link goes here.</span></a> &mdash; <span style="color:red;">Date goes here.</span></dd>
+			<dd class="bio-picture"><img src="Barlow2_copy.jpg" alt="Clarence Barlow" width="248" height="248" /></dd>
+		  <dd class="biography">	
+	        <p><span style="color:red;">Biography goes here.</span></p>
+    </dd>
 
     
   
@@ -151,7 +182,15 @@ PaulJohnBritainMasterParis) </p>
     </dd>
 	
     
-  
+  <dt id="LastNameHere"> <p><span style="color:red;">Name goes here.</span></p></dt>
+	
+     <dd><a href="pianomatic"> <span style="color:red;">Performance link goes here.</span></a> &mdash; <span style="color:red;">Date goes here.</span></dd>
+			<dd class="bio-picture"><img src="Barlow2_copy.jpg" alt="Clarence Barlow" width="248" height="248" /></dd>
+		  <dd class="biography">	
+	        <p><span style="color:red;">Biography goes here.</span></p>
+    </dd>
+    
+    
 </dl>
 		
 </div>
