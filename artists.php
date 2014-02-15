@@ -30,8 +30,7 @@
 		
 	
    		  <dt id="Barlow">Clarence Barlow</dt>
-			<dd><a href="create">CREATE</a> &mdash; April 12,
-    and <a href="SongbirdsHour">Songbird's Hour</a>&mdash;April 12&ndash;14</dd>
+			<dd>Electronic Counterpoint &mdash; April 25</dd>
 	<dd class="bio-picture"><img src="images/Barlow2_copy.jpg" alt="Clarence Barlow" width="248" height="248" /></dd>
 		  <dd class="biography">	
 	        <p>Professor Clarence Barlow is the Corwin Endowed Chair of Composition at the University of California-Santa Barbara. From its inception, the Corwin Chair has been an important post for promoting the creation and performance of contemporary music, for making regional, national, and international connections with other composition programs, for bringing noted composers to UCSB as guests to broaden students' horizons, and for attracting students to UCSB. Barlow's career achievements fulfill the Corwin's vision of fostering a link between continuing excellence in traditional approaches to composition while also recognizing the emerging role of music in the media arts and technology. Barlow's past and current teaching posts include twelve years as Professor of Composition and Computer Music at the renowned biennial Summer Courses of the International Music Institute at Darmstadt (1982-1994); over twenty years as Lecturer in Computer Music at the Cologne Musikhochschule (1984-2005); four years as Artistic Director of the Institute of Sonology at The Hague 's Royal Conservatory (1990-1994); and twelve years as Professor of Composition and Sonology at the Royal Conservatory (1994-2006). Other posts include Visiting Professor of Composition and Acoustic Art at the Folkwang University in Essen, Germany (1990-1991), and Visiting Professor of Composition at the ESMAE School of Music and Dramatic Arts in Porto, Portugal (2005-2006). Barlow, who studied composition under Bernd Alois Zimmermann (1968-1970) and Karlheinz Stockhausen (1971-1973), is a universally acknowledged pioneer and celebrated composer in the field of electroacoustic and computer music. He has made groundbreaking advancements in interdisciplinary composition that unite mathematics, computer science, visual arts, and literature. While he has been a driving force in interdisciplinary and technological advances, his music is nevertheless firmly grounded in tradition and thus incorporates much inherited from the past. His works, primarily for traditional instruments, feature a vocabulary that ranges from pretonal to tonal, nontonal, or microtonal idioms, and, further, may incorporate elements derived from non-western cultures.</p>
@@ -42,7 +41,7 @@
 
 <dt id="Feigin">Joel Feigin</dt>
     
-               <dd><a href="NewCenturyVoices">New Century Voices</a> &mdash;April 14</dd>
+               <dd>CREATE &mdash;April 23</dd>
 	
 			<dd class="bio-picture"><img src="images/Joel_Feigin.jpg" alt="Joel Feigin" width="227" height="300"  /></dd>
 		  <dd class="biography">	
@@ -121,7 +120,7 @@ School. His website can be found at <a href="http://www.joelfeigin.com">www.joel
     
   
 	<dt id="Haladyna">Jeremy Haladyna</dt>
-			<dd><a href="create">CREATE</a> &mdash; April 12</dd>
+			<dd>Ensemble for Contemporary Music &mdash; April 22</dd>
 		<dd class="bio-picture"><img src="images/haladyna.jpg" width="200" height="308" alt="Jeremy Haladyna" /></dd>
 			<dd class="biography">	
 					<p>Jeremy Haladyna holds
