@@ -94,10 +94,108 @@ Featuring the CREATE ensemble, directed by Matt Wright
 
 </dd>
 
+<!-- event -->
+
+<dt>Thursday, April 24, 8 PM</dt>
+
+<dd>
+
+<p><i>Made in California&mdash;Now Hear Ensemble</i></p>
+
+
+<p>The Made in California project is an exciting collaborative concert series with 11 composers throughout the state. Now Hear Ensemble believes that collaboration is a tremendously useful mode of creation for new music. The landscape of Californian music is rich and diverse, and as a part of this artistic realm, NHE seeks to create an accessible, uniform medium for the interchange of ideas between composers, performers and audiences. Made in California will be presented in San Diego, Los Angeles, Santa Barbara and San Francisco.</p>
+
+<p>Music by Eoin Callery, Carolyn Chen, Todd Lerew, Mateo Lugo, Daniel Miller, Jon Myers, Iv&aacute;n Naranjo, Nick Norton, Dan VanHassel, David Werfelmann and Kevin Zhang&mdash;composers with ties to CalArts, Mills College, Stanford University, UC Berkeley, UC San Diego, UC Santa Barbara and USC.
+Members of Now Hear Ensemble are Federico Llach, Double bass/Artistic Director; Jonathan Morgan, viola; Anthony Garcia, percussion; Joel Hunt, saxophone; Amanda Kritzberg, clarinet.</p>
+
+<p>Old Little Theater, Free</p>
+ 
+<!-- event -->
+
+<dt>Friday, April 25, time TBD</dt>
+
+<dd>
+
+<p><i>La perception transamplith&eacute;&acirc;trale.<br />
+      Alexis Crawshaw, Maud Watel-Kazak, Marcos Novak</i></p>
+
+
+
+<p>This transdisciplinary installation/performance explores the ideas of
+fractured perception, multiphrenia (after psychologist Kenneth
+J.Gergen, that one personality becomes fragmented into many as a
+symptom of the demands of modern society and the sometimes conflicting
+roles that we must play within it), apophenia (the tendency of the
+mind to construct meaning or agency in otherwise meaningless data),
+and how our experience of the world is shaped by context and
+environment. A collaboration between Alexis Crawshaw, guest artist
+Maud Watel-Kazak, and Marcos Novak, this work is an investigation,
+through diverse modalities, into the contiguous relationship between
+performance/artistic gesture (by the artists), perceptual gesture (by
+the audience member), and contextual gesture (by the manipulation of
+space in the venue of performance).</p>
+
+<p>Present in the work is the use of 3D-generated masks expressing
+multiphrenia and inviting multiple interpretations on the part of its
+perceiver. It will feature original poetry in "Franglish" that
+develops author Raymond Roussel's method of proc&eacute;d&eacute; and
+psychologist Diana Deutsch's study of "phantom words". Virtual art
+projections will develop how one can approach and thus perceive the
+same physical space in multiple ways, depending on the point of focus
+and the context, also as a function of accumulated memory. There will
+equally be a study of the psychosomatic influences of the installation
+on audience members through vibrotactile infrasounds, using feedback
+from a heart-rate sensor.</p>
+
+<p>transLAB, Elings Hall. Free.</p>
+
+</dd>
+
+<!-- event -->
+
+<dt>Friday, April 25, 8:00 PM</dt>
+
+<dd>
+
+<p><i>Electronic Counterpoint - Lucia Mense, Recorder</i></p>
+
+<p>New compositions for recorder and electronics, including works by Clarence Barlow, Ori Barel (World Premier) and Anthony Paul Garcia (World Premier).
+Sponsored by the Corwin Chair in Music Composition.</p>
+
+<p>Karl Geiringer Hall. Free</p>
+
+</dd>
+
+<!-- event -->
+
+<dt>Saturday, April 26, 7 PM</dt>
+<dd>
+
+<p><i>Loxodroming III, with Ignition Duo</i></p>
+
+
+
+<p>Ignition Duo, the Bay Area guitar duo (Ramon Fermin and David
+Gonzales), will return to Santa Barbara to perform an entire program
+of works from UCSB composers for the PRIMAVERA Festival. Close to ten
+works from UCSB students and alumni were specially written for the duo
+and will be premiered in the festival. Ignition Duo has gained a
+significant experience with programs and repertory specially composed
+for them as their commitment to new music is very exciting and
+inspiring. Their project ranges from performance with acoustic
+classical guitars to electric guitars and also includes interaction
+with fixed media and live electronics. The concert will feature works
+from Barel, Cho, Crawshaw, Evans, Garcia, Gordon, Jette, Norton,
+Rolle, Taylor and Yoon.</p>
+
+<p>Lotte Lehmann Concert Hall, Free</p>
+
+<p><i>Sponsored by the Corwin Chair in Music Composition.</i></p>
+
+</dd>
 
 </dl> <!-- END LIST OF EVENTS HERE -->
       
-    <h2>More events coming soon!</h2>
 
 
 </div>
