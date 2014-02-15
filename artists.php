@@ -58,7 +58,7 @@ Barlow, who studied composition under Bernd Alois Zimmermann (1968-1970) and Kar
     </dd>
 	
 
-<dt id="Crawshaw"> <p>Alexis Story Crawshaw</span></p></dt>
+<dt id="Crawshaw">Alexis Story Crawshaw</dt>
      <dd>UCSB Women's Carillon Compositions &mdash; April 21</dd>
          <dd>Des Gestes Touchants &mdash; April 24</dd>
              <dd>La perception transamplith&eacute;&acirc;trale &mdash; April 25</dd>
@@ -72,7 +72,7 @@ Barlow, who studied composition under Bernd Alois Zimmermann (1968-1970) and Kar
     </dd>
     
     
-    <dt id="Diemer"> <p>Emma Lou Diemer</p></dt>
+    <dt id="Diemer">Emma Lou Diemer</dt>
      <dd>UCSB Womens Carillon Compositions &mdash; April 21</dd>
 			
 		  <dd class="biography">	
@@ -163,7 +163,7 @@ School. His website can be found at <a href="http://www.joelfeigin.com">www.joel
     
 -->
 
-<dt id="Garcia"> <p>Anthony Paul Garcia</p></dt>
+<dt id="Garcia">Anthony Paul Garcia</dt>
 	<dd>Made in California, Now Hear Ensemble &mdash; April 24</dd>
 			
 		  <dd class="biography">	
@@ -200,7 +200,7 @@ PaulJohnBritainMasterParis) </p>
     </dd>
 	
     
-  <dt id="Halsted"> <p>Margo Halsted</p></dt>
+  <dt id="Halsted">Margo Halsted</dt>
      <dd>UCSB Women's Carillon Compositions &mdash; April 21</dd>
 			<dd class="bio-picture"> <dd> </dd>
 		  <dd class="biography">	
