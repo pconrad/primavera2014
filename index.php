@@ -19,11 +19,44 @@
 	<p class="caption">For more information,  email Leslie Hogan, leslie.hogan@ccs.ucsb.edu 
 		or call (805)&nbsp;893&ndash;7001.<br /> 
 	  <a href="http://www.aw.id.ucsb.edu/maps/">UCSB campus maps.</a>	</p>
+
+
+<p>
+Since 2003, organizers of UCSB’s Primavera Festival have worked to
+highlight the work of UCSB faculty, staff, and students in the
+performing, visual, and media arts.  Anchored by the Ensemble for
+Contemporary Music (ECM), directed by Jeremy Haladyna, and CREATE
+(Center for Research in Electronic Art Technology, this year’s
+festival also features an international roster of guest artists:
+Elizabeth Hoffman (NYU), Marcus Schmickler (visiting professor at
+CalArts), Lucia Mense of Cologne, Germany, the Now Hear Ensemble, and
+Ignition Duo.
+</p>      
       
+<dl> <!-- START LIST OF EVENTS HERE -->
+
+<!-- EACH EVENT HAS A dt element and a dd element -->
+
+<dt>
+Monday, April 21, 7:45-8 AM,
+Storke Tower Carillon,
+Free.
+</dt>
+
+<dd>
+<p><b>UCSB Women's Carillon Compositions</b></p>
+
+<p>Carillonist Margo Halsted will perform music by Emma Lou Diemer, Margo
+Halsted, and Alexis Crawshaw.</p>
+
+</dd>
+
+
+
+
+</dl> <!-- END LIST OF EVENTS HERE -->
       
-<p>Event schedule coming momentarily.  Really!</p>      
-      
-    
+    <p>More events coming soon!</p>
 
 
 </div>
