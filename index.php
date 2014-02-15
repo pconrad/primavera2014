@@ -26,7 +26,7 @@ Since 2003, organizers of UCSB's Primavera Festival have worked to
 highlight the work of UCSB faculty, staff, and students in the
 performing, visual, and media arts.  Anchored by the Ensemble for
 Contemporary Music (ECM), directed by Jeremy Haladyna, and CREATE
-(Center for Research in Electronic Art Technology, this year's
+(Center for Research in Electronic Art Technology), this year's
 festival also features an international roster of guest artists:
 Elizabeth Hoffman (NYU), Marcus Schmickler (visiting professor at
 CalArts), Lucia Mense of Cologne, Germany, the Now Hear Ensemble, and
