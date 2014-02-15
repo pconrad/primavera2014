@@ -21,8 +21,17 @@
 		<ul class="featured-list">
         
 			<li><a href="#Barlow">Clarence Barlow</a></li>
+			<li><a href="Crawshaw">Alexis Crawshaw</a></li>
             <li><a href="#Feigin">Joel Feigin</a></li>
            	<li><a href="#Haladyna">Jeremy Haladyna</a></li>
+           	<li><a href="#Halsted">Margo Halsted</a></li>
+           	
+           	<li><a href="#Llach">Federico Llach</a></li>
+           	<li><a href="#Novak">Marcos Novak</a></li>
+	              
+	            <li><a href="#Roads">Curtis Roads</a></li>  
+	              
+	              
 	              
   </ul>
 		
