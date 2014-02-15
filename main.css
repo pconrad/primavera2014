@@ -18,6 +18,15 @@ a[href$='.mp3'] {
 #header h3 {clear:none;}
 
 
+#schedTable tr td { 
+    font-size: 90%;
+    padding-left: 1px;
+    padding-right: 6px;
+}
+
+#schedTable {
+   margin-bottom: 1em;
+}
 
 #header { 
 width:800px;
@@ -163,6 +172,7 @@ font-size: 100%;
 #dedication p { font-size: 90%; }
 
 
+dl {clear: both;}
 
 dl.featured dt { margin-top: 1em; padding-top: 1em; clear: both;}
 
@@ -187,3 +197,5 @@ margin: 0 0 0 0; padding: 0 0 0 0;
 
 
 ul.bulletList li {margin-left:1em; padding-right:1em; list-style:disc; padding-bottom:3px;}
+
+.back { color: #999; float:right;}

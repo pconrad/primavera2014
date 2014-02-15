@@ -5,7 +5,19 @@
 	<meta http-equiv="content-type" content="text/html; charset=iso-8859-1" />
 	<title>UCSB Primavera Festival 2014\ - Schedule</title>
 	<link rel="stylesheet" type="text/css" href="main.css" media="screen" />
+
+        <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
 </head>
+
+<script>
+$(document).ready(function(){
+  $('.back').each(function(i, obj) {
+      $(this).html("<a href='#schedule'>Back to schedule</a>");
+  });
+});
+
+</script>
+
 <body>
 
 <?php require("header.php"); ?>
@@ -35,18 +47,18 @@ Ignition Duo.
 
 	<h2 id="schedule">Schedule</h2>
 
-<table>
+<table id="schedTable">
 
-  <tr><td>Monday, April 21, 7:45-8 AM</td><td><a href="#carillon">UCSB Women's Carillon Compositions</a></td>  </tr>
+  <tr><td>Monday</td><td> April 21</td><td>7:45&ndash;8 AM</td><td><a href="#carillon">UCSB Women's Carillon Compositions</a></td>  </tr>
 
-  <tr><td>Tuesday, April 22, 8 PM</td><td><a href="#ecm">Ensemble for Contemporary Music (ECM)</a></td>  </tr>
+  <tr><td>Tuesday</td><td>April 22</td><td>8 PM</td><td><a href="#ecm">Ensemble for Contemporary Music (ECM)</a></td>  </tr>
 
-  <tr><td>Wednesday, April 23, 8 PM</td><td><a href="#create">CREATE</a></td>  </tr>
-  <tr><td>Thursday, April 24, 6 PM&ndash;7 PM</td><td><a href="#gestes">Des Gestes Touchants</a></td>  </tr>
-  <tr><td>Thursday, April 24, 8 PM</td><td><a href="#gestes">Made in California&mdash;Now Hear Ensemble</a></td>  </tr>
-  <tr><td>Friday, April 25, 4 PM</td><td><a href="#perception">La perception transamplith&eacute;&acirc;trale.</a></td>  </tr>
-  <tr><td>Friday, April 25, 8 PM</td><td><a href="#recorder">Electronic Counterpoint&mdash;Lucia Mense, Recorder</a></td>  </tr>
-  <tr><td>Friday, April 26, 7 PM</td><td><a href="#lox">Loxodroming III, with Ignition Duo</a></td>  </tr>
+  <tr><td>Wednesday</td><td>April 23</td><td>8 PM</td><td><a href="#create">CREATE</a></td>  </tr>
+  <tr><td>Thursday</td><td>April 24</td><td>6&ndash;7 PM</td><td><a href="#gestes">Des Gestes Touchants</a></td>  </tr>
+  <tr><td>Thursday</td><td>April 24</td><td>8 PM</td><td><a href="#gestes">Made in California&mdash;Now Hear Ensemble</a></td>  </tr>
+  <tr><td>Friday</td><td>April 25</td><td>4 PM</td><td><a href="#perception">La perception transamplith&eacute;&acirc;trale.</a></td>  </tr>
+  <tr><td>Friday</td><td>April 25</td><td>8 PM</td><td><a href="#recorder">Electronic Counterpoint&mdash;Lucia Mense, Recorder</a></td>  </tr>
+  <tr><td>Saturday</td><td>April 26</td><td>7 PM</td><td><a href="#lox">Loxodroming III, with Ignition Duo</a></td>  </tr>
 
 
 </table>
@@ -70,7 +82,9 @@ Halsted, and Alexis Crawshaw.</p>
 
 <p>Storke Tower Carillon.  Free.</p>
 
+
 </dd>
+<p class="back"></p>
 
 <!-- next event -->
 
@@ -84,6 +98,7 @@ Halsted, and Alexis Crawshaw.</p>
 <p>Lotte Lehmann Concert Hall.  Admission $10 general/$5 student</p>
 
 </dd>
+<p class="back"></p>
 
 <!-- next event -->
 
@@ -114,7 +129,9 @@ Featuring the CREATE ensemble, directed by Matt Wright
 
 <p>Music Bowl. Free</p>
 
+
 </dd>
+<p class="back"></p>
 
 <!-- event -->
 
@@ -132,6 +149,10 @@ Members of Now Hear Ensemble are Federico Llach, Double bass/Artistic Director; 
 
 <p>Old Little Theater, Free</p>
  
+
+</dd>
+<p class="back"></p>
+
 <!-- event -->
 
 <dt id="perception">Friday, April 25, 4 PM</dt>
@@ -172,6 +193,8 @@ from a heart-rate sensor.</p>
 <p>transLAB, 2615 Elings Hall. Free.</p>
 
 </dd>
+<p class="back"></p>
+
 
 <!-- event -->
 
@@ -187,6 +210,7 @@ from a heart-rate sensor.</p>
 <p><i>Sponsored by the Corwin Chair in Music Composition.</i></p>
 
 </dd>
+<p class="back"></p>
 
 <!-- event -->
 
@@ -215,6 +239,7 @@ Rolle, Taylor and Yoon.</p>
 <p><i>Sponsored by the Corwin Chair in Music Composition.</i></p>
 
 </dd>
+<p class="back"></p>
 
 </dl> <!-- END LIST OF EVENTS HERE -->
       
