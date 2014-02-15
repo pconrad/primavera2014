@@ -77,7 +77,7 @@ Halsted, and Alexis Crawshaw.</p>
 
 <!-- next event -->
 
-<dt>Thursday, April 24, 6:00 – 7:00 PM</dt>
+<dt>Thursday, April 24, 6:00-7:00 PM</dt>
 
 <dd>
 <p><i>Des Gestes Touchants</i></p>
@@ -90,7 +90,7 @@ Featuring the CREATE ensemble, directed by Matt Wright
 
 <p>"Touching gestures" is an interdisciplinary, collaborative improvisational performance with the computer music of the CREATE Ensemble led by Matthew Wright, comic mime and dance performance by guest artist/actress Maud Watel-Kazak, and a vibrotactile music component by Alexis Story Crawshaw. This work will explore different rapports of "mapping" and "feedback" between the domains of theater and electroacoustic music. It will also investigate the musicality of touch using vibrotactile actuators, thereby inviting synaesthestic associations through gesture across three modalities: sonic, visual, and tactile.</p>
 
-<p>Thursday, April 24, 6:00 – 7:00 PM. Music Bowl. Free</p>
+<p>Music Bowl. Free</p>
 
 </dd>
 
