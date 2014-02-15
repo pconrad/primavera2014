@@ -21,7 +21,7 @@
 	  <a href="http://www.aw.id.ucsb.edu/maps/">UCSB campus maps.</a>	</p>
       
       
-<p>Event schedule coming soon.</p>      
+<p>Event schedule coming momentarily.  Really!</p>      
       
     
 
