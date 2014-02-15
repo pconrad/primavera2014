@@ -58,15 +58,18 @@ Barlow, who studied composition under Bernd Alois Zimmermann (1968-1970) and Kar
     </dd>
 	
 
-<dt id="Crawshaw"> <p><span style="color:red;">Alexis Story Crawshaw</span></p></dt>
+<dt id="Crawshaw"> <p>Alexis Story Crawshaw</span></p></dt>
 	
-     <dd><a href="pianomatic"> <span style="color:red;">Performance link goes here.</span></a> &mdash; <span style="color:red;">Date goes here.</span></dd>
-			<dd class="bio-picture"><img src="Barlow2_copy.jpg" alt="Clarence Barlow" width="248" height="248" /></dd>
+     <dd>UCSB Women's Carillon Compositions &mdash; April 21</dd>
+         <dd>Des Gestes Touchants &mdash; April 24</dd>
+             <dd>La perception transamplithéâtrale &mdash; April 25</dd>
+    
+			
 		  <dd class="biography">	
-	        <p><span style="color:red;">Alexis Story Crawshaw, born in 1986, grew up in San Rafael, California, in the San Francisco Bay Area. She started composing at the age of 10 following her very first piano lesson. She received a Bachelors of Art degree in Music Composition from the College of Creative Studies at UC Santa Barbara. There, she studied acoustic composition under Jeremy Haladyna and electroacoustic composition under Curtis Roads. After graduating with High Honors, she moved to Paris to continue her studies at the private music school, La Schola Cantorum. There, she developed her technical skills in orchestration, counterpoint, harmony and piano. After two years of study, she started a Masters program at the Université Paris 8, under the direction of Anne Sedes, focusing on research and creation/composition. She graduated with a Mention Très Bien (Highest Honors). Alexis is currently a PhD student in UCSB’s Media Arts and Technology Program
+	        <p>Alexis Story Crawshaw, born in 1986, grew up in San Rafael, California, in the San Francisco Bay Area. She started composing at the age of 10 following her very first piano lesson. She received a Bachelors of Art degree in Music Composition from the College of Creative Studies at UC Santa Barbara. There, she studied acoustic composition under Jeremy Haladyna and electroacoustic composition under Curtis Roads. After graduating with High Honors, she moved to Paris to continue her studies at the private music school, La Schola Cantorum. There, she developed her technical skills in orchestration, counterpoint, harmony and piano. After two years of study, she started a Masters program at the Université Paris 8, under the direction of Anne Sedes, focusing on research and creation/composition. She graduated with a Mention Très Bien (Highest Honors). Alexis is currently a PhD student in UCSB’s Media Arts and Technology Program
 Crawshaw's research mostly concerns infrasounds and intersensorial perception in the context of electroacoustic composition. In particular, Crawshaw is interested in the impacts that infrasounds have on both architectural and corporal structures, their psychosomatic effects, and their intersensorial properties and potential uses involving vibrotactility and vision. Another somewhat separate area of interest and study is the influence of music on gustative and olfactive perception in the context of wine tasting.
 Crawshaw has received notable recognition for her electroacoustic works, in particular her composition "like a submarine in a dream", winning 1st place in the 2008 Sherril C. Corwin Awards in the Music Composition, Electroacoustic division. Her Art Music Video projects "peindre" and "stereo dinner time" were among those featured in a 2008 Art Music Video exhibition at the Santa Barbara Museum. In 2011, she composed a choral work "Création Mondiale" for La Chorale de la Cité Internationale Universitaire de Paris, directed by Italo Marchini, premiered at their spring concert. Her piece "i'm thinking of an object you can find in the metro" was featured in the 2011 L'Atelier de Composition, run by José-Manuel López López, and was selected among the works to appear in a special concert the following day at the Institut Cervantes.
- </span></p>
+</p>
     </dd>
     
     
