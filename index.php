@@ -46,7 +46,7 @@ Monday, April 21, 7:45-8 AM</dt>
 <p>Carillonist Margo Halsted will perform music by Emma Lou Diemer, Margo
 Halsted, and Alexis Crawshaw.</p>
 
-<p>Storke Tower Carillon, Free.</p>
+<p>Storke Tower Carillon.  Free.</p>
 
 </dd>
 
