@@ -22,7 +22,7 @@ function genActive($item)
 		<ul> 
 			<li <?php genActive("1"); ?> ><a href=".">Schedule (home)</a></li>
 			<li <?php genActive("120");?> ><a href="press">Press</a></li> 
-
+			<li <?php genActive("130");?> ><a href="artists">Featured Artists</a></li>
 			<li <?php genActive("140");?> id="breakAfter1"><a href="credits-sponsors">Credits &amp; Sponsors</a></li>
 			
 		
