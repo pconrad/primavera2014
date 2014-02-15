@@ -38,38 +38,61 @@ Ignition Duo.
 <!-- EACH EVENT HAS A dt element and a dd element -->
 
 <dt>
-Monday, April 21, 7:45-8 AM,
-Storke Tower Carillon,
-Free.
-</dt>
+Monday, April 21, 7:45-8 AM</dt>
 
 <dd>
-<p><b>UCSB Women's Carillon Compositions</b></p>
+<p><i>UCSB Women's Carillon Compositions</i></p>
 
 <p>Carillonist Margo Halsted will perform music by Emma Lou Diemer, Margo
 Halsted, and Alexis Crawshaw.</p>
+
+<p>Storke Tower Carillon, Free.</p>
 
 </dd>
 
 <!-- next event -->
 
-<dd>Tuesday, April 22, 8 PM Lotte Lehmann Concert Hall</dd>
+<dt>Tuesday, April 22, 8 PM</dt>
 
-<p><b>Ensemble for Contemporary Music (ECM)</b></p>
+<dd>
+<p><i>Ensemble for Contemporary Music (ECM)</i></p>
 
 <p>Members of UCSB's ECM will perform works by Cristina Lord, Peter Racine Fricker, Emma Lou Diemer, and others.</p>
 
-<p>Admission $10 general/$5 student</p>
+<p>Lotte Lehmann Concert Hall.  Admission $10 general/$5 student</p>
+
+</dd>
 
 <!-- next event -->
 
-<dd>Wednesday, April 23, 8 PM. Lotte Lehmann Concert Hall</dd>
+<dt>Wednesday, April 23, 8 PM</dt>
 
-<p><b>CREATE<b></p>
-
-<p>Admission $10 general/$5 student</p>
+<dd>
+<p><i>CREATE</i></p>
 
 <p>Electroacoustic music from UCSB's Center for Research in Electronic Arts Technology (CREATE), with guest artists Elizabeth Hoffman from NYU and Marcus Schmickler, Visiting Professor at Cal Arts.  It will also feature the World Premiere of a new electronic work by Joel Feigin, musical assistant Ron Sedgwick.</p>
+
+<p>Lotte Lehmann Concert Hall.  Admission $10 general/$5 student</p>
+
+
+<!-- next event -->
+
+<dt>Thursday, April 24, 6:00 – 7:00 PM</dt>
+
+<dd>
+<p><i>Des Gestes Touchants</i></p>
+
+<p>
+Alexis Crawshaw, vibrotactile music.
+Guest artist Maud Watel-Kazak, mime and dance.
+Featuring the CREATE ensemble, directed by Matt Wright
+</p>
+
+<p>"Touching gestures" is an interdisciplinary, collaborative improvisational performance with the computer music of the CREATE Ensemble led by Matthew Wright, comic mime and dance performance by guest artist/actress Maud Watel-Kazak, and a vibrotactile music component by Alexis Story Crawshaw. This work will explore different rapports of "mapping" and "feedback" between the domains of theater and electroacoustic music. It will also investigate the musicality of touch using vibrotactile actuators, thereby inviting synaesthestic associations through gesture across three modalities: sonic, visual, and tactile.</p>
+
+<p>Thursday, April 24, 6:00 – 7:00 PM. Music Bowl. Free</p>
+
+</dd>
 
 
 </dl> <!-- END LIST OF EVENTS HERE -->
