@@ -26,6 +26,8 @@
 	<li><a href="http://www.create.ucsb.edu/">CREATE</a></li>
 		<li><a href="http://www.mat.ucsb.edu/">Media Arts and Technology Program</a></li>
 		<li><a href="http://www.music.ucsb.edu/">Music Department</a></li>
+		<li><a href="https://www.crowsontech.com">Crowson Technologies</a></li>
+		<li><a href="http://watkaz.wordpress.com/">WatKaz</a></li>
         
 
         <li>        
