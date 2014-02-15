@@ -199,17 +199,39 @@ Priest, written for Jill Felber, appears on Neuma records.
 PaulJohnBritainMasterParis) </p>
     </dd>
 	
-    
-  <dt id="Halsted">Margo Halsted</dt>
+ 
+    <dt id="Halsted">Margo Halsted</dt>
      <dd>UCSB Women's Carillon Compositions &mdash; April 21</dd>
-			<dd class="bio-picture"> <dd> </dd>
+			<dd class="bio-picture"><img scr= "images/Margo.bell.jpg" width="200" height="308"/></dd>
 		  <dd class="biography">	
 	        <p>Margo Halsted is Associate Adjunct Professor of Music and carillonist at UCSB. In 2008 she began teaching at the UCSB College of Creative Studies with a class in carillon composition. She now teaches cast bell carillon for the Music Department. Halsted retired from the University of Michigan School of Music, Theater and Dance as Associate Professor and Carillonist Emerita. At Michigan she was a member of the organ department, Director of the Stearns Collection of Musical Instruments and teacher of carillon, music history and handbells. Her other university teaching was at UC, Riverside and Michigan State University, and she has presented master classes and lessons at Yale University and Trinity College (CT). She has performed for festivals at: UC, Berkeley; Lake Wales, Florida; Iowa State University, Seclin, France and Barcelona, Spain. Thirty-one of her students have passed the exam to become Carillonneur Members of the Guild of Carillonneurs in North America (GCNA).</p>
-<p>Halsted has performed in all countries with an established carillon tradition, and has been a frequent recitalist and speaker for the meetings of the GCNA and the World Carillon Federation. The GCNA has bestowed on her the Certificate of Extraordinary Service and Honorary Membership. She was the recipient of the Berkeley Medal “For Service to the Carillon Art.” Presently, she is the chair of a new medium-level exam for the GCNA.</p>
+<p>Halsted has performed in all countries with an established carillon tradition, and has been a frequent recitalist and speaker for the meetings of the GCNA and the World Carillon Federation. The GCNA has bestowed on her the Certificate of Extraordinary Service and Honorary Membership. She was the recipient of the Berkeley Medal "For Service to the Carillon Art." Presently, she is the chair of a new medium-level exam for the GCNA.</p>
 <p>Halsted has degrees in music and education from Stanford University, an M.A. degree in Carillon Performance Practice from UC, Riverside and a diploma from the Netherlands Carillon School. In her capacity as bell consultant she has assisted with the creation of six new carillons and two chimes as well as the renovation of other instruments.
 </p>
     </dd>
+
+   
+  <dt id="Hoffman">Elizabeth Hoffman</dt>
+     <dd>CREATE &mdash; April 23</dd>
+			<dd class="bio-picture"> <dd> </dd>
+		  <dd class="biography">	
+	        <p>Elizabeth Hoffman has lived and worked in New York City since joining the Arts and Science Faculty at New York University (NYU) in 1998, where she founded and directs the Washington Square Computer Music Studio in the Department of Music. Her musical interests center around texture, timbre, tuning, harmony at the border of noise, and spatialization. She has written electroacoustic music since the early 1990s when her primary teachers were Bülent Arel at Stony Brook University (NY, USA), and Diane Thome and Richard Karpen at the University of Washington (WA, USA). In response to a Residency invitation she worked at the Electronic Music Studio of the Musik Akademie Basel (Switzerland) for several months in 1995. Recognition for her electroacoustic music has come from the Bourges International Electroacoustic Music Competition, Prix Ars Electronica competition, Seattle Arts Commission, and Jerome Foundation. Mixed electroacoustic projects include collaborations with acoustic instrument performers Claire Chase, Elizabeth McNutt, Ivan Goff, Margaret Lancaster,Arthur Campbell, Esther Lamneck, Abbie Conant, and TimeTable Percussion. Hoffman’s electroacoustic music has been released by Neuma Records, Centaur, Innova, and empreintes DIGITALes.
+</p>
+    </dd>
     
+    
+    <dt id="Hunt">Joel Hunt</dt>
+     <dd>Made in California, Now Hear Ensemble &mdash; April 24</dd>
+			<dd class="bio-picture"> <dd> </dd>
+		  <dd class="biography">	
+	        <p>Joel Hunt is an active composer and performer, specializing in algorithmic, interactive, and improvisatory electro-acoustic spatial music. As a champion of new music, Joel has premiered new works for saxophone at the Primavera Festival of Contemporary Arts and Digital Media, the California Electronic Music Exchange Concert Series (CEMEC), the United States Navy Band International Saxophone Symposium, and the Ethos NewSound Festival of Contemporary Music. </p>
+
+<p>Joel has performed in various ensemble settings at the Roy and Edna Disney/CalArts Theater (REDCAT), the Santa Barbara Museum of Art, at conferences held by the North American Saxophone Alliance and the College Band Directors National Association, at the Sigurd M. Rascher Centennial Celebration, at the Rochester International Jazz Festival, and at the Ellicottville Jazz Festival. Currently, Joel is collaborating with Santa Barbara based composers to produce a collection of new works for saxophone, which he plans to premier later this year.
+
+</p>
+    </dd>
+    
+     
     
 </dl>
 		
