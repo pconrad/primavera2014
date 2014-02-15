@@ -35,6 +35,22 @@ Ignition Duo.
 
 	<h2 id="schedule">Schedule</h2>
 
+<table>
+
+  <tr><td>Monday, April 21, 7:45-8 AM</td><td><a href="#carillon">UCSB Women's Carillon Compositions</a></td>  </tr>
+
+  <tr><td>Tuesday, April 22, 8 PM</td><td><a href="#ecm">Ensemble for Contemporary Music (ECM)</a></td>  </tr>
+
+  <tr><td>Wednesday, April 23, 8 PM</td><td><a href="#create">CREATE</a></td>  </tr>
+  <tr><td>Thursday, April 24, 6 PM&ndash;7 PM</td><td><a href="#gestes">Des Gestes Touchants</a></td>  </tr>
+  <tr><td>Thursday, April 24, 8 PM</td><td><a href="#gestes">Made in California&mdash;Now Hear Ensemble</a></td>  </tr>
+  <tr><td>Friday, April 25, 4 PM</td><td><a href="#perception">La perception transamplith&eacute;&acirc;trale.</a></td>  </tr>
+  <tr><td>Friday, April 25, 8 PM</td><td><a href="#recorder">Electronic Counterpoint&mdash;Lucia Mense, Recorder</a></td>  </tr>
+  <tr><td>Friday, April 26, 7 PM</td><td><a href="#lox">Loxodroming III, with Ignition Duo</a></td>  </tr>
+
+
+</table>
+
 
 	<h2 id="details">Event Details</h2>
 
@@ -43,7 +59,7 @@ Ignition Duo.
 
 <!-- EACH EVENT HAS A dt element and a dd element -->
 
-<dt>
+<dt id="carillon">
 Monday, April 21, 7:45-8 AM</dt>
 
 <dd>
@@ -58,7 +74,7 @@ Halsted, and Alexis Crawshaw.</p>
 
 <!-- next event -->
 
-<dt>Tuesday, April 22, 8 PM</dt>
+<dt id="ecm">Tuesday, April 22, 8 PM</dt>
 
 <dd>
 <p><i>Ensemble for Contemporary Music (ECM)</i></p>
@@ -71,7 +87,7 @@ Halsted, and Alexis Crawshaw.</p>
 
 <!-- next event -->
 
-<dt>Wednesday, April 23, 8 PM</dt>
+<dt id="create">Wednesday, April 23, 8 PM</dt>
 
 <dd>
 <p><i>CREATE</i></p>
@@ -83,7 +99,7 @@ Halsted, and Alexis Crawshaw.</p>
 
 <!-- next event -->
 
-<dt>Thursday, April 24, 6:00-7:00 PM</dt>
+<dt id="gestes">Thursday, April 24, 6:00-7:00 PM</dt>
 
 <dd>
 <p><i>Des Gestes Touchants</i></p>
@@ -102,7 +118,7 @@ Featuring the CREATE ensemble, directed by Matt Wright
 
 <!-- event -->
 
-<dt>Thursday, April 24, 8 PM</dt>
+<dt id="california">Thursday, April 24, 8 PM</dt>
 
 <dd>
 
@@ -118,7 +134,7 @@ Members of Now Hear Ensemble are Federico Llach, Double bass/Artistic Director; 
  
 <!-- event -->
 
-<dt>Friday, April 25, 4 PM</dt>
+<dt id="perception">Friday, April 25, 4 PM</dt>
 
 <dd>
 
@@ -159,11 +175,11 @@ from a heart-rate sensor.</p>
 
 <!-- event -->
 
-<dt>Friday, April 25, 8:00 PM</dt>
+<dt id="recorder">Friday, April 25, 8:00 PM</dt>
 
 <dd>
 
-<p><i>Electronic Counterpoint - Lucia Mense, Recorder</i></p>
+<p><i>Electronic Counterpoint&mdash;Lucia Mense, Recorder</i></p>
 
 <p>New compositions for recorder and electronics, including works by Clarence Barlow, Ori Barel (World Premier) and Anthony Paul Garcia (World Premier).</p>
 
@@ -174,7 +190,7 @@ from a heart-rate sensor.</p>
 
 <!-- event -->
 
-<dt>Saturday, April 26, 7 PM</dt>
+<dt id="lox">Saturday, April 26, 7 PM</dt>
 <dd>
 
 <p><i>Loxodroming III, with Ignition Duo</i></p>
