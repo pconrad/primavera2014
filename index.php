@@ -159,8 +159,7 @@ from a heart-rate sensor.</p>
 
 <p><i>Electronic Counterpoint - Lucia Mense, Recorder</i></p>
 
-<p>New compositions for recorder and electronics, including works by Clarence Barlow, Ori Barel (World Premier) and Anthony Paul Garcia (World Premier).
-Sponsored by the Corwin Chair in Music Composition.</p>
+<p>New compositions for recorder and electronics, including works by Clarence Barlow, Ori Barel (World Premier) and Anthony Paul Garcia (World Premier).</p>
 
 <p>Karl Geiringer Hall. Free</p>
 <p><i>Sponsored by the Corwin Chair in Music Composition.</i></p>
