@@ -112,7 +112,7 @@ Members of Now Hear Ensemble are Federico Llach, Double bass/Artistic Director; 
  
 <!-- event -->
 
-<dt>Friday, April 25, time TBD</dt>
+<dt>Friday, April 25, 4 PM</dt>
 
 <dd>
 
@@ -147,7 +147,7 @@ equally be a study of the psychosomatic influences of the installation
 on audience members through vibrotactile infrasounds, using feedback
 from a heart-rate sensor.</p>
 
-<p>transLAB, Elings Hall. Free.</p>
+<p>transLAB, 2615 Elings Hall. Free.</p>
 
 </dd>
 
