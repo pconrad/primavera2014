@@ -245,7 +245,7 @@ PaulJohnBritainMasterParis) </p>
 		  <dd class="biography">	
 	        <p>Amanda Kritzberg grew up in Los Angeles County and began playing the clarinet at the age of eleven under the direction of her father. Amanda studied with clarinetist Paul Bambach for six years, where she gained experience in the performance of a variety of genres and styles of music. Amanda received her Bachelor of Music degree in clarinet performance in 2011 from UCSB, and her Master of Music degree also in clarinet performance in 2013 from UCSB. Amanda has been involved in a number of diverse music performance ensembles over the years including the UCSB Symphony, Wind Ensemble, Clarinet Choir, and Ensemble for Contemporary Music. Amanda has worked in collaboration and performed with numerous musicians around the Santa Barbara area, as well as played in recording sessions for local composers.</p> 
 <p>
-In March of 2011, Amanda played in a master class lead by Matthias Schorn of the Vienna Philharmonic, and in 2012 performed Copland's Clarinet Concerto for a master class with Fred Ormand. In July 2012, Amanda was featured as a chamber musician in the Fiati a Palazzo Rucellai", a wind chamber music festival in Florence, Italy. Amanda is becoming increasingly involved in music of the contemporary era, and enjoys participating in the compositions of local and upcoming composers as a member of the Now Hear Ensemble, with whom she has debuted numerous new works in venues such as the Santa Barbara Museum of Art and REDCAT (Roy and Edna Disney/CalArts theater), located in the Walt Disney Hall Concert Hall complex in Los Angeles, CA.
+In March of 2011, Amanda played in a master class lead by Matthias Schorn of the Vienna Philharmonic, and in 2012 performed Copland's Clarinet Concerto for a master class with Fred Ormand. In July 2012, Amanda was featured as a chamber musician in the <i>Fiati a Palazzo Rucellai</i>, a wind chamber music festival in Florence, Italy. Amanda is becoming increasingly involved in music of the contemporary era, and enjoys participating in the compositions of local and upcoming composers as a member of the Now Hear Ensemble, with whom she has debuted numerous new works in venues such as the Santa Barbara Museum of Art and REDCAT (Roy and Edna Disney/CalArts theater), located in the Walt Disney Hall Concert Hall complex in Los Angeles, CA.
 
 </p>
     </dd>
@@ -254,25 +254,60 @@ In March of 2011, Amanda played in a master class lead by Matthias Schorn of the
      <dd>Made in California, Now Hear Ensemble &mdash; April 24</dd>
 			<dd class="bio-picture"> <dd> </dd>
 		  <dd class="biography">	
-	        <p>Now Hear Ensemble Artistic Director Federico Llach is a composer and double bass player. Prior to his 2011 arrival in Santa Barbara, he worked closely with the most remarkable performers and conductors of Buenos Aires' contemporary music and jazz scene, both as composer and performer. Federico earned a Degree in Compositon (IUNA, 2009) and graduated from Escuela de Música Contempor&aacute;nea (2003). In 2009 was awarded with the Melos‐Gandini Scholarship. Federico also received the Sadaic award in Composition for his work "Talampaya", for orchestra, premiered by Argentine National Symphony Orchestra. Federico's works have been played by Compa&ntilde;&iacute;a Oblicua, Sirius Ensemble, Now Hear Ensemble, UCSB Orchestra and others in the National Library, IUNA, Camping Musical Bariloche, Belgrano Auditorium and Santa Barbara Museum of Art.</p>
+	        <p>Now Hear Ensemble Artistic Director Federico Llach is a composer and double bass player. Prior to his 2011 arrival in Santa Barbara, he worked closely with the most remarkable performers and conductors of Buenos Aires' contemporary music and jazz scene, both as composer and performer. Federico earned a Degree in Compositon (IUNA, 2009) and graduated from Escuela de M&uacute;sica Contempor&aacute;nea (2003). In 2009 was awarded with the Melos‐Gandini Scholarship. Federico also received the Sadaic award in Composition for his work "Talampaya", for orchestra, premiered by the Argentine National Symphony Orchestra. Federico's works have been played by Compa&ntilde;&iacute;a Oblicua, Sirius Ensemble, Now Hear Ensemble, UCSB Orchestra and others in the National Library, IUNA, Camping Musical Bariloche, Belgrano Auditorium and Santa Barbara Museum of Art.</p>
 
-<p>As a double bass player, Federico has worked with Compañía Oblicua and Sirius ensemble at venues such as Teatro Colón, National Radio Auditorium, National Library, and CEAMC; conducted by Marcelo Delgado, Pablo Druker and Santiago Santero, among others. Federico is an active jazz musician: as part of Brote, he has recorded two albums and appeared at Buenos Aires and Rosario Jazz Festivals.
+<p>As a double bass player, Federico has worked with Compa&ntilde;&iacute;a Oblicua and Sirius ensemble at venues such as Teatro Col&oacute;n, National Radio Auditorium, National Library, and CEAMC; conducted by Marcelo Delgado, Pablo Druker and Santiago Santero, among others. Federico is an active jazz musician: as part of Brote, he has recorded two albums and appeared at Buenos Aires and Rosario Jazz Festivals.
 
 </p>
     </dd>
     
-     <dt id="Hunt">Joel Hunt</dt>
+     <dt id="Mense">Lucia Mense</dt>
+     <dd>Electronic Counterpoint &mdash; April 25</dd>
+			<dd class="bio-picture"> <dd> </dd>
+		  <dd class="biography">	
+	        <p>
+</p>
+    </dd>
+    
+    
+    <dt id="Morgan">Jonathan Morgan</dt>
      <dd>Made in California, Now Hear Ensemble &mdash; April 24</dd>
 			<dd class="bio-picture"> <dd> </dd>
 		  <dd class="biography">	
-	        <p>Joel Hunt is an active composer and performer, specializing in algorithmic, interactive, and improvisatory electro-acoustic spatial music. As a champion of new music, Joel has premiered new works for saxophone at the Primavera Festival of Contemporary Arts and Digital Media, the California Electronic Music Exchange Concert Series (CEMEC), the United States Navy Band International Saxophone Symposium, and the Ethos NewSound Festival of Contemporary Music. </p>
+	        <p>Jonathan Morgan is the violist of the Now Hear Ensemble. Jonathan is also an active studio recording artist with RAYMOND.com.ar and Pororoca.tv, providing violin and viola tracks to TV commercials now airing for the Argentine fashion house, VER. Jonathan was recently the featured soloist with the Choir of St. Barbara Parish at the Old Mission Santa Barbara, culminating in an album of Good Friday Anthems and other sacred music to be released in 2014. Other works in Jonathan's discography include the Lament Cycle by Joel Feigin (released on MSR Classics, 2012).</p>
 
-<p>Joel has performed in various ensemble settings at the Roy and Edna Disney/CalArts Theater (REDCAT), the Santa Barbara Museum of Art, at conferences held by the North American Saxophone Alliance and the College Band Directors National Association, at the Sigurd M. Rascher Centennial Celebration, at the Rochester International Jazz Festival, and at the Ellicottville Jazz Festival. Currently, Joel is collaborating with Santa Barbara based composers to produce a collection of new works for saxophone, which he plans to premier later this year.
+<p>Jonathan has performed with the Santa Barbara Chamber Orchestra, the Santa Fe Symphony, and the New Mexico and Missouri Symphony Orchestra’s, to name a few. Prior to settling in Santa Barbara in 2010, Jonathan served on the violin, viola, and chamber music faculty at the Cleveland Institute of Music’s Preparatory and Continuing Education Department. Jonathan has participated in several music festivals, notably the Banff Centre where he was part of impromptu recordings later used in the 2008 Beijing Olympic Games Opening Ceremony. Jonathan is an alumnus of the Peabody Institute of the Johns Hopkins University (Bachelor of Music, 2006), the Cleveland Institute of Music (Master of Music, 2008), and the University of California Santa Barbara (Doctor of Musical Arts, 2014). Jonathan plays a viola by Guy Rabut, with a bow by Bernard Walke. Occasionally he performs on a carbon fiber viola by Mezzo-Forte Stringed Instruments, and a carbon fiber bow by Carbow. 
+
+</p>
+    </dd>
+ 
+ <dt id="Novak">Marcos Novak</dt>
+             <dd>La perception transamplith&eacute;&acirc;trale &mdash; April 25</dd>
+
+			<dd class="bio-picture"> <dd> </dd>
+		  <dd class="biography">	
+	        <p>Professor Marcos Novak, director of transLAB, is a pioneer in the field of virtual architecture. In the mid 90s, his contribution to Inteational architectural discourse was further expanded by the coining and definition of the term "Transarchitectures" His approach: "we conceive algorithmically (morphogenesis); we model numerically (rapid prototyping); we build robotically (new tectonics); we inhabit interactively (intelligent space); we telecommunicate instantly (pantopicon); we are informed immersively (liquid architectures); we socialise nonlocally (nonlocal public domain); we evert virtuality (transarchitectures)". He has also posited a new "Soft Babylon," a theoretical stance which posits that our digitized architectural palette is causing us to create a wired Situationist city, while we struggle with some of the massive paradigm shifts that our era will and must face. Whilst articulating highly fluent theory, he has practiced, producing beautiful ethereal architectures that flux and shimmer as his algorithms run their designed logics. He received the Masters of Architecture at Ohio State university in 1983. Since that time he has taught at Ohio State, University of Texas Austin, the Architecture program at UCLA, the Digital Media program at UCLA, and the Art Center College of Design, in Pasadena. He has published, lectured and exhibited his work internationally. 
+</p>
+    </dd>
+    
+    <dt id="Roads">Curtis Roads</dt>
+     <dd>CREATE &mdash; April 23</dd>
+			<dd class="bio-picture"> <dd> </dd>
+		  <dd class="biography">	
+	        <p>Curtis Roads teaches and pursues research in the interdisciplinary territory spanning music and technology. He was Editor and Associate Editor of <i>Computer Music Journal</i> (The MIT Press) from 1978 to 2000, and cofounded the International Computer Music Association in 1979. A researcher in computer music at MIT (1980-1986), he also worked in the computer industry for a decade. He taught electronic music composition at Harvard University, and sound synthesis techniques at the University of Naples. He was appointed Director of Pedagogy at Les Ateliers UPIC (later CCMIX) and Lecturer in the Music Department of the Universit&eacute; Paris 8.</p>
+
+<p>Among his books are the anthologies <i>Foundations of Computer Music</i> (1985, The MIT Press) and <i>The Music Machine</i> (1989, The MIT Press). His textbook <i>The Computer Music Tutorial</i> (1996, The MIT Press) is widely adopted as a standard classroom text and has been published in French (1999, second edition 2007), Japanese (2001), and Chinese (forthcoming) editions. He edited the anthology <i>Musical Signal Processing</i> in 1997. His book, <i>Microsound</i> (2002, The MIT Press) presents the techniques and aesthetics of composition with sound particles. A pioneer in the development of granular synthesis (1974), he also developed (with Alberto de Campo) a sound particle synthesis program PulsarGenerator (2001), distributed by the Center for Research in Electronic Art Technology (CREATE) at UCSB. His collection of electronic music compositions POINT LINE CLOUD won the Award of Distinction at the 2002 Ars Electronica in Linz and was released as a CD + DVD on the Asphodel label in 2005. His new book is <i>Composing Electronic Music: A New Aesthetic</i> (forthcoming) published by Oxford University Press. A new revised edition of <i>The Computer Music Tutorial</i> by The MIT Press will follow.</p><p> He is keenly interested in the integration of electronic music with visual and spatial media. Since 2004, he has been researching a new method of sound analysis that is the analytical counterpart of granular synthesis called dictionary-based pursuit, which has been sponsored by the National Science Foundation. A new collection of electronic music is in the works.
 
 </p>
     </dd>
     
-    
+    <dt id="Schmickler">Marcus Schmickler</dt>
+     <dd>CREATE &mdash; April 23</dd>
+			<dd class="bio-picture"> <dd> </dd>
+		  <dd class="biography">	
+	        <p>Marcus Schmickler studied electronic music and composition in Cologne, Germany. As a composer, along with his many works of electronic music, he worked with the ensemble recherche, musikFabrik, Ensemble zeitkratzer, the Schlagquatet Köln as well as with orchestras and choirs. He is also an active improviser, working with other improvising instrumentalists, such as Thomas Lehn, and John Tilbury, mainly using computer. His interest in more conventional forms of music is reflected in his activity with the Pluramon project, in which he also colaborated with Julee Cruise.  His discography so far consists of over 50 titles and he has been performing on the world’s stages and at international festivals for years. He also appeared as a composer in the field of theatre, radiophonic art and film as well as writing about computer music and acoustics. Schmickler has won numerous prizes and honours and is closely associated with the labels a-Musik, editionsMego and the now defunct Mille Plateaux. He runs his own studio Piethopraxis in Cologne. Schmickler has been part of the Music/Sound faculty at Bard College, NY and is currently visiting professor for composition at CalArts, California.
+</p>
+    </dd>
 </dl>
 		
 </div>
