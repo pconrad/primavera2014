@@ -6,6 +6,18 @@
 	<title>UCSB Primavera Festival 2012 - Featured Artists</title>
 	<link rel="stylesheet" type="text/css" href="main.css" media="screen" /></head>
 	 <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+
+
+
+<script>
+$(document).ready(function(){
+  $('.back').each(function(i, obj) {
+      $(this).html("<a href='#schedule'>Back to list of artists</a>");
+  });
+});
+
+</script>
+
 <body>
 
 <?php require("header.php"); ?>
