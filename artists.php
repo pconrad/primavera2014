@@ -5,6 +5,7 @@
 	<meta http-equiv="content-type" content="text/html; charset=iso-8859-1" />
 	<title>UCSB Primavera Festival 2012 - Featured Artists</title>
 	<link rel="stylesheet" type="text/css" href="main.css" media="screen" /></head>
+	 <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
 <body>
 
 <?php require("header.php"); ?>
