@@ -31,7 +31,7 @@
            		<li><a href="#Hoffman">Elizabeth Hoffman</a></li>
            		<li><a href="#Hunt">Joel Hunt</a></li> 
            		<li><a href="#Ignition">Ignition Duo</a></li> 
-           		    <li><a href="#Watel">Maud Watel Kazak</a></li> 
+           		    <li><a href="#Kazak">Maud Watel Kazak</a></li> 
            		<li><a href="#Kritzberg">Amanda Kritzberg</a></li> 
            	<li><a href="#Llach">Federico Llach</a></li>
            	<li><a href="#Mense">Lucia Mense</a></li> 
@@ -254,7 +254,7 @@ PaulJohnBritainMasterParis) </p>
     </dd>
     
  
- <dt id="Watel">Maud Watel Kazak</dt>
+ <dt id="Kazak">Maud Watel Kazak</dt>
       <dd>Des Gestes Touchants &mdash; April 24</dd>
              <dd>La perception transamplith&eacute;&acirc;trale &mdash; April 25</dd>
 			<dd class="bio-picture"> <dd> </dd>
