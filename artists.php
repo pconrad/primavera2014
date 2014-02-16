@@ -233,7 +233,7 @@ PaulJohnBritainMasterParis) </p>
     
  <dt id="IgnitionDuo">Ignition Duo</dt>
      <dd>Loxodroming III &mdash; April 26</dd>
-			<dd class="bio-picture"> <dd> </dd>
+			<dd class="bio-picture"><img src="images/Ignitionpromo.jpg" width="248" height="248" /></dd>
 		  <dd class="biography">	
 	        <p>Ignition Duo is a newly formed guitar ensemble devoted to exploring a confluence between the streams of contemporary classical music and extreme rock music through the advocacy of new works for classical and electric guitars alike. 
 </p>
