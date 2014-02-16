@@ -24,6 +24,7 @@
 			<li><a href="#Crawshaw">Alexis Story Crawshaw</a></li>
 			<li><a href="#Diemer">Emma Lou Diemer</a></li>
             <li><a href="#Feigin">Joel Feigin</a></li>
+             <li><a href="#Fricker">Peter Racine Fricker</a></li>
             <li><a href="#Garcia">Anthony Paul Garcia</a></li> 
            	<li><a href="#Haladyna">Jeremy Haladyna</a></li>
            	<li><a href="#Halsted">Margo Halsted</a></li>
@@ -163,9 +164,8 @@ School. His website can be found at <a href="http://www.joelfeigin.com">www.joel
     </dd>
     
 -->
-
-<dt id="Garcia">Anthony Paul Garcia</dt>
-	<dd>Made in California, Now Hear Ensemble &mdash; April 24</dd>
+<dt id="Fricker">Peter Racine Fricker</dt>
+	<dd>Ensemble for Contemporary Music &mdash; April 22</dd>
 			
 		  <dd class="biography">	
 	        <p>Anthony Paul Garcia, a native of Phoenix, AZ, has been percussing since the age of 13. Anthony has enjoyed playing with an eclectic variety of ensembles throughout his 12 years of performance, including: marching bands and drum corps, contemporary music ensembles, steel drum ensembles, wind ensembles, orchestras, percussion ensembles, African drumming groups, Brazilian baterias, and laptop orchestras. Anthony has a passion for new music and appreciates any opportunity to perform.</p> 
@@ -173,6 +173,19 @@ School. His website can be found at <a href="http://www.joelfeigin.com">www.joel
 Anthony is proud to have many key performances in his young career - he has recorded the premiers of Jeremy Haladyna's <i>The Princess of the 9 Cave</i> as well as <i>Xunaam Balam</i> on the album <i>Mayan Time Mayan Tales</i> (released on Innova Records, 2012). Also, in June of 2012 Anthony, along with 47 percussionists and 3 piccolo players, helped mark the west coast premier of John Luther Adams' <i>Inuksuit</i> under the direction of Steven Schick at the Ojai Music Festival. </p>
 <p>
 Anthony is also a composer and has written numerous works for the Now Hear Ensemble. Anthony holds a Bachelors Degree in Music Composition and Theory from Arizona State University as well as a Masters Degree from UC Santa Barbara in Music Composition. Anthony is currently pursuing his PhD in composition from UC Santa Barbara. 
+</p>
+    </dd>
+    
+<dt id="Garcia">Anthony Paul Garcia</dt>
+	<dd>Made in California, Now Hear Ensemble &mdash; April 24</dd>
+			
+		  <dd class="biography">	
+	        <p>Peter Racine Fricker (1920-1990) joined the faculty at the University of California, Santa Barbara in 1964 as a visiting professor, and became a regular faculty member in 1970. In 1979, he was appointed Faculty Research Lecturer, and remained an active professor at the University until his death in 1990.</p>
+
+<p>In his will, he arranged for his estate to be used to fund an endowment for the graduate program in Composition at UCSB. The <i>Peter Racine Fricker Fellowship for Studies in Composition</i> provides fellowships for graduate students as well as postdoctoral students in the Composition Program of the Music Department at the University of California at Santa Barbara. 
+</p>
+<p>Fricker's substantial output of symphonies, concertos and string quartets formed an important contribution to the growth of a more progressive, European outlook among British composers in the immediate postwar years.  A contrapuntalist, he was influenced by the examples of Bartok and Hindemtih, though using serial methods as well. His vocal and choral works were few in number, though the oratorio <i>The Vision of Judgement</i> remains highly regarded.
+
 </p>
     </dd>
 
