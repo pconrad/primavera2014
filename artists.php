@@ -238,7 +238,23 @@ In addition to active performing, Jeremy teaches orchestration and is a senior f
      <dd>CREATE &mdash; April 23</dd>
 			<dd class="bio-picture"> <dd> </dd>
 		  <dd class="biography">	
-	        <p>Elizabeth Hoffman has lived and worked in New York City since joining the Arts and Science Faculty at New York University (NYU) in 1998, where she founded and directs the Washington Square Computer Music Studio in the Department of Music. Her musical interests center around texture, timbre, tuning, harmony at the border of noise, and spatialization. She has written electroacoustic music since the early 1990s when her primary teachers were Bülent Arel at Stony Brook University (NY, USA), and Diane Thome and Richard Karpen at the University of Washington (WA, USA). In response to a Residency invitation she worked at the Electronic Music Studio of the Musik Akademie Basel (Switzerland) for several months in 1995. Recognition for her electroacoustic music has come from the Bourges International Electroacoustic Music Competition, Prix Ars Electronica competition, Seattle Arts Commission, and Jerome Foundation. Mixed electroacoustic projects include collaborations with acoustic instrument performers Claire Chase, Elizabeth McNutt, Ivan Goff, Margaret Lancaster,Arthur Campbell, Esther Lamneck, Abbie Conant, and TimeTable Percussion. Hoffman’s electroacoustic music has been released by Neuma Records, Centaur, Innova, and empreintes DIGITALes.
+	        <p>Elizabeth Hoffman has lived and worked in New York City since joining the Arts 
+	        and Science Faculty at New York University (NYU) in 1998, where she founded and 
+	        directs the Washington Square Computer Music Studio in the Department of Music. 
+	        Her musical interests center around texture, timbre, tuning, harmony at 
+	        the border of noise, and spatialization. She has written electroacoustic music 
+	        since the early 1990s when her primary teachers were B&uuml;lent Arel at Stony Brook 
+	        University (NY, USA), and Diane Thome and Richard Karpen at the University of 
+	        Washington (WA, USA). In response to a Residency invitation she worked at the 
+	        Electronic Music Studio of the Musik Akademie Basel (Switzerland) for several 
+	        months in 1995. Recognition for her electroacoustic music has come from the 
+	        Bourges International Electroacoustic Music Competition, Prix Ars Electronica 
+	        competition, Seattle Arts Commission, and Jerome Foundation. 
+	        Mixed electroacoustic projects
+	        include collaborations with acoustic instrument performers Claire Chase, 
+	        Elizabeth McNutt, Ivan Goff, Margaret Lancaster,Arthur Campbell, Esther Lamneck, 
+	        Abbie Conant, and TimeTable Percussion. Hoffman''s electroacoustic music has been 
+	        released by Neuma Records, Centaur, Innova, and empreintes DIGITALes.
 </p>
     </dd><p class="back"></p>
 
