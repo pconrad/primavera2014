@@ -70,7 +70,8 @@ $(document).ready(function(){
 Barlow, who studied composition under Bernd Alois Zimmermann (1968-1970) and Karlheinz Stockhausen (1971-1973), is a universally acknowledged pioneer and celebrated composer in the field of electroacoustic and computer music. He has made groundbreaking advancements in interdisciplinary composition that unite mathematics, computer science, visual arts, and literature. While he has been a driving force in interdisciplinary and technological advances, his music is nevertheless firmly grounded in tradition and thus incorporates much inherited from the past. 
 </p>
                              <p>&nbsp;</p>
-    </dd>
+    </dd><p class="back"></p>
+
 	
 
 <dt id="Crawshaw">Alexis Story Crawshaw</dt>
@@ -84,7 +85,8 @@ Barlow, who studied composition under Bernd Alois Zimmermann (1968-1970) and Kar
 <p>Crawshaw's research mostly concerns infrasounds and intersensorial perception in the context of electroacoustic composition. In particular, Crawshaw is interested in the impacts that infrasounds have on both architectural and corporal structures, their psychosomatic effects, and their intersensorial properties and potential uses involving vibrotactility and vision. Another somewhat separate area of interest and study is the influence of music on gustative and olfactive perception in the context of wine tasting.</p>
 <p>Crawshaw has received notable recognition for her electroacoustic works, in particular her composition "like a submarine in a dream", winning 1st place in the 2008 Sherril C. Corwin Awards in the Music Composition, Electroacoustic division. Her Art Music Video projects "peindre" and "stereo dinner time" were among those featured in a 2008 Art Music Video exhibition at the Santa Barbara Museum. In 2011, she composed a choral work "Cr&eacute;ation Mondiale" for La Chorale de la Cit&eacute; Internationale Universitaire de Paris, directed by Italo Marchini, premiered at their spring concert. Her piece "i'm thinking of an object you can find in the metro" was featured in the 2011 L'Atelier de Composition, run by Jos&eacute;-Manuel L&oacute;pez L&oacute;pez, and was selected among the works to appear in a special concert the following day at the Institut Cervantes.
 </p>
-    </dd>
+    </dd><p class="back"></p>
+
     
     
     <dt id="Diemer">Emma Lou Diemer</dt>
@@ -99,7 +101,8 @@ Through the years she has fulfilled many commissions (orchestral, chamber ensemb
 <p>She is an active keyboard performer (piano, organ, harpsichord, synthesizer), and in the last few years has given concerts of her own music at Washington National Cathedral, St. Mary's Cathedral and Grace Cathedral in San Francisco, Cathedral of Our Lady of the Angels in Los Angeles, and elsewhere.</p>
 <p>Emma Lou Diemer lives in Santa Barbara, California.
  </p>
-    </dd>
+    </dd><p class="back"></p>
+
     
     
     
@@ -161,7 +164,8 @@ studied with Nadia Boulanger at Fontainebleau and with Roger Sessions at The Jui
 
 School. His website can be found at <a href="http://www.joelfeigin.com">www.joelfeigin.com</a>.</p>
 
-	</dd>
+	</dd><p class="back"></p>
+
 	<!-- ========= end of Joel Feigin =========== -->	
 
 
@@ -175,7 +179,8 @@ School. His website can be found at <a href="http://www.joelfeigin.com">www.joel
 			<dd class="bio-picture"><img src="Barlow2_copy.jpg" alt="Clarence Barlow" width="248" height="248" /></dd>
 		  <dd class="biography">	
 	        <p><span style="color:red;">Biography goes here.</span></p>
-    </dd>
+    </dd><p class="back"></p>
+
     
 -->
 <dt id="Fricker">Peter Racine Fricker</dt>
@@ -189,7 +194,8 @@ School. His website can be found at <a href="http://www.joelfeigin.com">www.joel
 <p>Fricker's substantial output of symphonies, concertos and string quartets formed an important contribution to the growth of a more progressive, European outlook among British composers in the immediate postwar years.  A contrapuntalist, he was influenced by the examples of Bartok and Hindemtih, though using serial methods as well. His vocal and choral works were few in number, though the oratorio <i>The Vision of Judgement</i> remains highly regarded.
 
 </p>
-    </dd>		
+    </dd>		<p class="back"></p>
+
     
     <dt id="Garcia">Anthony Paul Garcia</dt>
 	<dd>Made in California, Now Hear Ensemble &mdash; April 24</dd>
@@ -200,7 +206,8 @@ Anthony is proud to have many key performances in his young career - he has reco
 <p>
 Anthony is also a composer and has written numerous works for the Now Hear Ensemble. Anthony holds a Bachelors Degree in Music Composition and Theory from Arizona State University as well as a Masters Degree from UC Santa Barbara in Music Composition. Anthony is currently pursuing his PhD in composition from UC Santa Barbara. 
 </p>
-    </dd>
+    </dd><p class="back"></p>
+
     
 
 	<dt id="Haladyna">Jeremy Haladyna</dt>
@@ -211,7 +218,8 @@ Anthony is also a composer and has written numerous works for the Now Hear Ensem
 <p>
 In addition to active performing, Jeremy teaches orchestration and is a senior faculty member of the College of Creative Studies, UCSB. As pianist, composer, conductor and organist, he has long been committed to the espousal of new music. His own music has been heard at Carnegie (Weill) Hall; King's College, London; St. John's Smith Square, London; South Bank Centre, London; the Monday Evening Concerts, Los Angeles; St. Paul's Cathedral, London; All Saints Church, London; BMIC, London; and the National Museum of Art, Mexico City. In December 1999 he premiered his <i>The Vision Serpent</i> at the Chopin Academy, Warsaw during a guest residency, also lecturing on the Mayan Cycle.  In October, 2000 he was invited to present excerpts from the cycle as the subject of a colloquium at Kings College, London.   In 2009 "Mayan Cycle" elements were brought to concerts in Instanbul, Turkey as part of a composer-conductor residency at MIAM.   In 2009 an integral album release entirely from the "Mayan Cycle" appeared on innova.
  </p>
-    </dd>
+    </dd><p class="back"></p>
+
 	
  
     <dt id="Halsted">Margo Halsted</dt>
@@ -222,7 +230,8 @@ In addition to active performing, Jeremy teaches orchestration and is a senior f
 <p>Halsted has performed in all countries with an established carillon tradition, and has been a frequent recitalist and speaker for the meetings of the GCNA and the World Carillon Federation. The GCNA has bestowed on her the Certificate of Extraordinary Service and Honorary Membership. She was the recipient of the Berkeley Medal "For Service to the Carillon Art." Presently, she is the chair of a new medium-level exam for the GCNA.</p>
 <p>Halsted has degrees in music and education from Stanford University, an M.A. degree in Carillon Performance Practice from UC, Riverside and a diploma from the Netherlands Carillon School. In her capacity as bell consultant she has assisted with the creation of six new carillons and two chimes as well as the renovation of other instruments.
 </p>
-    </dd>
+    </dd><p class="back"></p>
+
 
    
   <dt id="Hoffman">Elizabeth Hoffman</dt>
@@ -231,7 +240,8 @@ In addition to active performing, Jeremy teaches orchestration and is a senior f
 		  <dd class="biography">	
 	        <p>Elizabeth Hoffman has lived and worked in New York City since joining the Arts and Science Faculty at New York University (NYU) in 1998, where she founded and directs the Washington Square Computer Music Studio in the Department of Music. Her musical interests center around texture, timbre, tuning, harmony at the border of noise, and spatialization. She has written electroacoustic music since the early 1990s when her primary teachers were Bülent Arel at Stony Brook University (NY, USA), and Diane Thome and Richard Karpen at the University of Washington (WA, USA). In response to a Residency invitation she worked at the Electronic Music Studio of the Musik Akademie Basel (Switzerland) for several months in 1995. Recognition for her electroacoustic music has come from the Bourges International Electroacoustic Music Competition, Prix Ars Electronica competition, Seattle Arts Commission, and Jerome Foundation. Mixed electroacoustic projects include collaborations with acoustic instrument performers Claire Chase, Elizabeth McNutt, Ivan Goff, Margaret Lancaster,Arthur Campbell, Esther Lamneck, Abbie Conant, and TimeTable Percussion. Hoffman’s electroacoustic music has been released by Neuma Records, Centaur, Innova, and empreintes DIGITALes.
 </p>
-    </dd>
+    </dd><p class="back"></p>
+
     
     
     <dt id="Hunt">Joel Hunt</dt>
@@ -243,7 +253,8 @@ In addition to active performing, Jeremy teaches orchestration and is a senior f
 <p>Joel has performed in various ensemble settings at the Roy and Edna Disney/CalArts Theater (REDCAT), the Santa Barbara Museum of Art, at conferences held by the North American Saxophone Alliance and the College Band Directors National Association, at the Sigurd M. Rascher Centennial Celebration, at the Rochester International Jazz Festival, and at the Ellicottville Jazz Festival. Currently, Joel is collaborating with Santa Barbara based composers to produce a collection of new works for saxophone, which he plans to premier later this year.
 
 </p>
-    </dd>
+    </dd><p class="back"></p>
+
     
  <dt id="Ignition">Ignition Duo</dt>
      <dd>Loxodroming III &mdash; April 26</dd>
@@ -251,7 +262,8 @@ In addition to active performing, Jeremy teaches orchestration and is a senior f
 		  <dd class="biography">	
 	        <p>Ignition Duo is a newly formed guitar ensemble devoted to exploring a confluence between the streams of contemporary classical music and extreme rock music through the advocacy of new works for classical and electric guitars alike. 
 </p>
-    </dd>
+    </dd><p class="back"></p>
+
     
  
  <dt id="Kazak">Maud Watel Kazak</dt>
@@ -261,7 +273,8 @@ In addition to active performing, Jeremy teaches orchestration and is a senior f
 		  <dd class="biography">	
 	        <p>Maud Watel Kazak, director, artist, and actor, began a musical education at a very young age, studying the piano and solfege at the Conservatoire de Tourcoing. At the Beaux-Arts de Lille, she was able to explore design, painting, photography, sculpture and video. Her artistic research focuses on understanding the human condition and investigates the themes of movement, musicality, and representation. She has realized performance works where several mediums come into play. Her experimentation works on the relationship of the body in becoming a said source of representation. As such, she has been drawn towards theater and dance. She joined the Conservatoire du 5&egrave;me arrondissement de Paris and pursued theatrical studies at the Universit&eacute; de la Sorbonne Nouvelle- Paris 3. Participating in several theater projects, performances and short films, she developed her skills as actor and director. She started a research lab based on theater improvisation at the Petit Th&eacute;&acirc;tre du Bonheur &agrave; Paris, that which led to her creation Les Pr&eacute;cipit&eacute;s du Labo. Maud Watel Kazak has directed several projects: the theater piece "Serial Killer", a multidisciplinary creation by Marlon Miguel "Sur le chemin&#133;" the theater piece "Hernie Discale", and has developed numerous musical and theatrical improvisations with Alexis Crawshaw. Additionally, she co-directed a short film adapted from a play in December 2013, the short film "Un bout de Maison". She is the head of the WakKaz association, a performing arts collective. 
 </p>
-    </dd>   
+    </dd>   <p class="back"></p>
+
     
      <dt id="Kritzberg">Amanda Kritzberg</dt>
      <dd>Made in California, Now Hear Ensemble &mdash; April 24</dd>
@@ -272,7 +285,8 @@ In addition to active performing, Jeremy teaches orchestration and is a senior f
 In March of 2011, Amanda played in a master class lead by Matthias Schorn of the Vienna Philharmonic, and in 2012 performed Copland's Clarinet Concerto for a master class with Fred Ormand. In July 2012, Amanda was featured as a chamber musician in the <i>Fiati a Palazzo Rucellai</i>, a wind chamber music festival in Florence, Italy. Amanda is becoming increasingly involved in music of the contemporary era, and enjoys participating in the compositions of local and upcoming composers as a member of the Now Hear Ensemble, with whom she has debuted numerous new works in venues such as the Santa Barbara Museum of Art and REDCAT (Roy and Edna Disney/CalArts theater), located in the Walt Disney Hall Concert Hall complex in Los Angeles, CA.
 
 </p>
-    </dd>
+    </dd><p class="back"></p>
+
     
      <dt id="Llach">Federico Llach</dt>
      <dd>Made in California, Now Hear Ensemble &mdash; April 24</dd>
@@ -283,7 +297,8 @@ In March of 2011, Amanda played in a master class lead by Matthias Schorn of the
 <p>As a double bass player, Federico has worked with Compa&ntilde;&iacute;a Oblicua and Sirius ensemble at venues such as Teatro Col&oacute;n, National Radio Auditorium, National Library, and CEAMC; conducted by Marcelo Delgado, Pablo Druker and Santiago Santero, among others. Federico is an active jazz musician: as part of Brote, he has recorded two albums and appeared at Buenos Aires and Rosario Jazz Festivals.
 
 </p>
-    </dd>
+    </dd><p class="back"></p>
+
     
      <dt id="Mense">Lucia Mense</dt>
      <dd>Electronic Counterpoint &mdash; April 25</dd>
@@ -293,7 +308,8 @@ In March of 2011, Amanda played in a master class lead by Matthias Schorn of the
 <p>In the area of New Music, Lucia Mense is interested in reaching beyond the boundaries of her instrument. In improvisation, as well as in collaboration with composers, she has been successful in extending the expressive possibilities of the recorder through hitherto unexplored techniques. By making extensive use of the special character of her instrument she has been able to explore striking new instrumental combinations.
 
 </p>
-    </dd>
+    </dd><p class="back"></p>
+
     
     
     <dt id="Morgan">Jonathan Morgan</dt>
@@ -305,7 +321,8 @@ In March of 2011, Amanda played in a master class lead by Matthias Schorn of the
 <p>Jonathan has performed with the Santa Barbara Chamber Orchestra, the Santa Fe Symphony, and the New Mexico and Missouri Symphony Orchestras, to name a few. Prior to settling in Santa Barbara in 2010, Jonathan served on the violin, viola, and chamber music faculty at the Cleveland Institute of Music's Preparatory and Continuing Education Department. Jonathan has participated in several music festivals, notably the Banff Centre where he was part of impromptu recordings later used in the 2008 Beijing Olympic Games Opening Ceremony. Jonathan is an alumnus of the Peabody Institute of the Johns Hopkins University (Bachelor of Music, 2006), the Cleveland Institute of Music (Master of Music, 2008), and the University of California Santa Barbara (Doctor of Musical Arts, 2014). Jonathan plays a viola by Guy Rabut, with a bow by Bernard Walke. Occasionally he performs on a carbon fiber viola by Mezzo-Forte Stringed Instruments, and a carbon fiber bow by Carbow. 
 
 </p>
-    </dd>
+    </dd><p class="back"></p>
+
  
  <dt id="Novak">Marcos Novak</dt>
              <dd>La perception transamplith&eacute;&acirc;trale &mdash; April 25</dd>
@@ -314,7 +331,8 @@ In March of 2011, Amanda played in a master class lead by Matthias Schorn of the
 		  <dd class="biography">	
 	        <p>Professor Marcos Novak, director of transLAB, is a pioneer in the field of virtual architecture. In the mid 90s, his contribution to Inteational architectural discourse was further expanded by the coining and definition of the term "Transarchitectures" His approach: "we conceive algorithmically (morphogenesis); we model numerically (rapid prototyping); we build robotically (new tectonics); we inhabit interactively (intelligent space); we telecommunicate instantly (pantopicon); we are informed immersively (liquid architectures); we socialise nonlocally (nonlocal public domain); we evert virtuality (transarchitectures)". He has also posited a new "Soft Babylon," a theoretical stance which posits that our digitized architectural palette is causing us to create a wired Situationist city, while we struggle with some of the massive paradigm shifts that our era will and must face. Whilst articulating highly fluent theory, he has practiced, producing beautiful ethereal architectures that flux and shimmer as his algorithms run their designed logics. He received the Masters of Architecture at Ohio State university in 1983. Since that time he has taught at Ohio State, University of Texas Austin, the Architecture program at UCLA, the Digital Media program at UCLA, and the Art Center College of Design, in Pasadena. He has published, lectured and exhibited his work internationally. 
 </p>
-    </dd>
+    </dd><p class="back"></p>
+
     
     <dt id="NowHear">Now Hear Ensemble</dt>
     <dd>Made in California &mdash; April 24</dd>
@@ -328,7 +346,8 @@ Angeles Debut at REDCAT (Roy and Edna Disney CalArts Theater). In addition to
 the Made In California Tour, NHE will perform at the Santa Barbara Museum of 
 Contemporary Art in October of this year. Now Hear Ensemble includes Amanda 
 Kritzberg&ndash;clarinet, Joel Hunt/Isaac Lopez&ndash;saxophone, Anthony Paul Garcia&ndash;percussion, Jonathan Morgan&ndash;viola, Federico Llach&ndash;double bass and artistic 
-direction.</p>
+direction.</p></dd><p class="back"></p>
+
 
 
     <dt id="Roads">Curtis Roads</dt>
@@ -340,7 +359,8 @@ direction.</p>
 <p>Among his books are the anthologies <i>Foundations of Computer Music</i> (1985, The MIT Press) and <i>The Music Machine</i> (1989, The MIT Press). His textbook <i>The Computer Music Tutorial</i> (1996, The MIT Press) is widely adopted as a standard classroom text and has been published in French (1999, second edition 2007), Japanese (2001), and Chinese (forthcoming) editions. He edited the anthology <i>Musical Signal Processing</i> in 1997. His book, <i>Microsound</i> (2002, The MIT Press) presents the techniques and aesthetics of composition with sound particles. A pioneer in the development of granular synthesis (1974), he also developed (with Alberto de Campo) a sound particle synthesis program PulsarGenerator (2001), distributed by the Center for Research in Electronic Art Technology (CREATE) at UCSB. His collection of electronic music compositions POINT LINE CLOUD won the Award of Distinction at the 2002 Ars Electronica in Linz and was released as a CD + DVD on the Asphodel label in 2005. His new book is <i>Composing Electronic Music: A New Aesthetic</i> (forthcoming) published by Oxford University Press. A new revised edition of <i>The Computer Music Tutorial</i> by The MIT Press will follow.</p><p> He is keenly interested in the integration of electronic music with visual and spatial media. Since 2004, he has been researching a new method of sound analysis that is the analytical counterpart of granular synthesis called dictionary-based pursuit, which has been sponsored by the National Science Foundation. A new collection of electronic music is in the works.
 
 </p>
-    </dd>
+    </dd><p class="back"></p>
+
     
     <dt id="Schmickler">Marcus Schmickler</dt>
      <dd>CREATE &mdash; April 23</dd>
@@ -348,7 +368,8 @@ direction.</p>
 		  <dd class="biography">	
 	        <p>Marcus Schmickler studied electronic music and composition in Cologne, Germany. As a composer, along with his many works of electronic music, he worked with the ensemble recherche, musikFabrik, Ensemble zeitkratzer, the Schlagquatet K&ouml;ln as well as with orchestras and choirs. He is also an active improviser, working with other improvising instrumentalists, such as Thomas Lehn, and John Tilbury, mainly using computer. His interest in more conventional forms of music is reflected in his activity with the Pluramon project, in which he also colaborated with Julee Cruise.  His discography so far consists of over 50 titles and he has been performing on the world's stages and at international festivals for years. He also appeared as a composer in the field of theatre, radiophonic art and film as well as writing about computer music and acoustics. Schmickler has won numerous prizes and honours and is closely associated with the labels a-Musik, editionsMego and the now defunct Mille Plateaux. He runs his own studio Piethopraxis in Cologne. Schmickler has been part of the Music/Sound faculty at Bard College, NY and is currently visiting professor for composition at CalArts, California.
 </p>
-    </dd>
+    </dd><p class="back"></p>
+
     
     
     <dt id="Wright">Matt Wright</dt>
@@ -358,7 +379,8 @@ direction.</p>
 			<dd class="bio-picture"> <dd> </dd>
 		  <dd class="biography">	
 	        <p>Matt Wright, director of the CREATE ensemble, received his PhD, Stanford/CCRMA,  B.A. UC Berkeley/CNMAT,  Post-Doc UVic/MISTIC.  Dr. Wright's dissertation "The Shape of an Instant: Measuring and Modeling Perceptual Attack Time with Probability Density Functions" concerned models of musical rhythm, including onsets, repetition, pulsation, meter, and phrasing, with particular emphasis on the question of when exactly we perceive musical events to occur. His interests are both theoretical and practical, aimed towards computer simulation of perceptual aspects of listening to musical rhythm for the construction of "automatic listeners". He worked for 15 years as the Musical Systems Designer at UC Berkeley's Center for New Music and Audio Technology (CNMAT), conducting research in topics including intimate musical control of computers, sound analysis and resynthesis, and rhythm; at CNMAT he helped to develop and propagate the now well established and much appreciated SDIF (Sound Description Interchange Format) and OSC (Open Sound Control) standards. His post-doctoral fellowship at the University of Victoria was devoted to the emerging field of computational ethnomusicology, and he is now the Research Director at UC Santa Barbara's Center for Research in Electronic Art Technology (CREATE). He is also an accomplished musician, focusing for the last many years on musics of non-Western cultures, with a special interest in Afro-Brazilian percussion and on the musics of India, Afghanistan, the Middle East, and North Africa.</p>
-    </dd>
+    </dd><p class="back"></p>
+
     
     
 </dl>
