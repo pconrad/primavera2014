@@ -30,6 +30,7 @@
            		<li><a href="#Hoffman">Elizabeth Hoffman</a></li>
            		<li><a href="#Hunt">Joel Hunt</a></li> 
            		<li><a href="#Ignition">Ignition Duo</a></li> 
+           		    <li><a href="#Watel">Maud Watel Kazak</a></li> 
            		<li><a href="#Kritzberg">Amanda Kritzberg</a></li> 
            	<li><a href="#Llach">Federico Llach</a></li>
            	<li><a href="#Mense">Lucia Mense</a></li> 
@@ -37,7 +38,6 @@
            	<li><a href="#Novak">Marcos Novak</a></li>
 	            <li><a href="#Roads">Curtis Roads</a></li>  
 	              <li><a href="#Schmickler">Marcus Schmickler</a></li> 
-	              <li><a href="#Watel">Maud Watel Kazak</a></li> 
 	              <li><a href="#Wright">Matt Wright</a></li> 
 	              
   </ul>
@@ -239,6 +239,16 @@ PaulJohnBritainMasterParis) </p>
 </p>
     </dd>
     
+ 
+ <dt id="Watel">Maud Watel Kazak</dt>
+      <dd>Des Gestes Touchants &mdash; April 24</dd>
+             <dd>La perception transamplith&eacute;&acirc;trale &mdash; April 25</dd>
+			<dd class="bio-picture"> <dd> </dd>
+		  <dd class="biography">	
+	        <p>Maud Watel Kazak, director, artist, and actor, began a musical education at a very young age, studying the piano and solfege at the Conservatoire de Tourcoing. At the Beaux-Arts de Lille, she was able to explore design, painting, photography, sculpture and video. Her artistic research focuses on understanding the human condition and investigates the themes of movement, musicality, and representation. She has realized performance works where several mediums come into play. Her experimentation works on the relationship of the body in becoming a said source of representation. As such, she has been drawn towards theater and dance. She joined the Conservatoire du 5&egrave;me arrondissement de Paris and pursued theatrical studies at the Universit&eacute; de la Sorbonne Nouvelle- Paris 3. Participating in several theater projects, performances and short films, she developed her skills as actor and director. She started a research lab based on theater improvisation at the Petit Th&eacute;&acirc;tre du Bonheur &agrave; Paris, that which led to her creation Les Pr&eacute;cipit&eacute;s du Labo. Maud Watel Kazak has directed several projects: the theater piece "Serial Killer", a multidisciplinary creation by Marlon Miguel "Sur le chemin…", the theater piece "Hernie Discale", and has developed numerous musical and theatrical improvisations with Alexis Crawshaw. Additionally, she co-directed a short film adapted from a play in December 2013, the short film "Un bout de Maison". She is the head of the WakKaz association, a performing arts collective. 
+</p>
+    </dd>   
+    
      <dt id="Kritzberg">Amanda Kritzberg</dt>
      <dd>Made in California, Now Hear Ensemble &mdash; April 24</dd>
 			<dd class="bio-picture"> <dd> </dd>
@@ -308,6 +318,18 @@ In March of 2011, Amanda played in a master class lead by Matthias Schorn of the
 	        <p>Marcus Schmickler studied electronic music and composition in Cologne, Germany. As a composer, along with his many works of electronic music, he worked with the ensemble recherche, musikFabrik, Ensemble zeitkratzer, the Schlagquatet Köln as well as with orchestras and choirs. He is also an active improviser, working with other improvising instrumentalists, such as Thomas Lehn, and John Tilbury, mainly using computer. His interest in more conventional forms of music is reflected in his activity with the Pluramon project, in which he also colaborated with Julee Cruise.  His discography so far consists of over 50 titles and he has been performing on the world’s stages and at international festivals for years. He also appeared as a composer in the field of theatre, radiophonic art and film as well as writing about computer music and acoustics. Schmickler has won numerous prizes and honours and is closely associated with the labels a-Musik, editionsMego and the now defunct Mille Plateaux. He runs his own studio Piethopraxis in Cologne. Schmickler has been part of the Music/Sound faculty at Bard College, NY and is currently visiting professor for composition at CalArts, California.
 </p>
     </dd>
+    
+    
+    <dt id="Wright">Matt Wright</dt>
+     <dd>CREATE &mdash; April 23</dd>
+           <dd>Des Gestes Touchants &mdash; April 24</dd>
+
+			<dd class="bio-picture"> <dd> </dd>
+		  <dd class="biography">	
+	        <p>Matt Wright, director of the CREATE ensemble, received his PhD, Stanford/CCRMA,  B.A. UC Berkeley/CNMAT,  Post-Doc UVic/MISTIC.  Dr. Wright's dissertation "The Shape of an Instant: Measuring and Modeling Perceptual Attack Time with Probability Density Functions" concerned models of musical rhythm, including onsets, repetition, pulsation, meter, and phrasing, with particular emphasis on the question of when exactly we perceive musical events to occur. His interests are both theoretical and practical, aimed towards computer simulation of perceptual aspects of listening to musical rhythm for the construction of "automatic listeners". He worked for 15 years as the Musical Systems Designer at UC Berkeley's Center for New Music and Audio Technology (CNMAT), conducting research in topics including intimate musical control of computers, sound analysis and resynthesis, and rhythm; at CNMAT he helped to develop and propagate the now well established and much appreciated SDIF (Sound Description Interchange Format) and OSC (Open Sound Control) standards. His post-doctoral fellowship at the University of Victoria was devoted to the emerging field of computational ethnomusicology, and he is now the Research Director at UC Santa Barbara's Center for Research in Electronic Art Technology (CREATE). He is also an accomplished musician, focusing for the last many years on musics of non-Western cultures, with a special interest in Afro-Brazilian percussion and on the musics of India, Afghanistan, the Middle East, and North Africa.</p>
+    </dd>
+    
+    
 </dl>
 		
 </div>
