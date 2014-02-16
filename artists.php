@@ -324,7 +324,7 @@ In March of 2011, Amanda played in a master class lead by Matthias Schorn of the
 unique combination of clarinet, saxophone, percussion, viola and double bass, 
 whose primary goal is to premier new works by emerging composers. Now Hear 
 Ensemble has performed at venues such as Left Coast Books, the Santa Barbara 
-Museum of Art, Muddy Waters Café, and recently gave their highly successful Los 
+Museum of Art, Muddy Waters Caf&eacute;, and recently gave their highly successful Los 
 Angeles Debut at REDCAT (Roy and Edna Disney CalArts Theater). In addition to 
 the Made In California Tour, NHE will perform at the Santa Barbara Museum of 
 Contemporary Art in October of this year. Now Hear Ensemble includes Amanda 
