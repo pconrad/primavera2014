@@ -196,22 +196,10 @@ Anthony is also a composer and has written numerous works for the Now Hear Ensem
 			<dd>Ensemble for Contemporary Music &mdash; April 22</dd>
 		<dd class="bio-picture"><img src="images/haladyna.jpg" width="200" height="308" alt="Jeremy Haladyna" /></dd>
 			<dd class="biography">	
-					<p>Jeremy Haladyna holds
-prizes and academic qualifications from three countries. He is a
-dipl&ograve;m&egrave; of the history-rich Schola Cantorum on Left
-Bank. He also holds the s degree with Distinction from the University
-of Surrey (U.K.). He has taught undergraduate composition at UCSB
-since 1991 and was awarded the Ph.D. in composition in 1993. In
-addition to his responsibilities with ECM, he teaches orchestration
-and is on the faculty of the College of Creative Studies, UCSB. As
-pianist, composer, conductor and organist, he has long been committed
-to the espousal of new music. Prizes from the Friends of Lili
-Boulanger and s MCPS Ltd. bear witness to his creativity, and his own
-music has recently been heard at St. s Smith Square, London; South
-Bank Centre, London; St. s Cathedral, London; BMIC, London; and the
-National Museum of Art, Mexico City. His On The Mat of The Jaquar
-Priest, written for Jill Felber, appears on Neuma records.
-PaulJohnBritainMasterParis) </p>
+					<p>Jeremy Haladyna, Director of UC Santa Barbara’s <i>Ensemble for Contemporary Music</i>, holds prizes and academic qualifications from three countries. A laureate of the Lili Boulanger Prize and dipl&ocirc;m&eacute; of the history-rich Schola Cantorum on Paris' Left Bank, he also holds an advanced degrees from the University of Surrey (U.K.) and the University of California.  He has taught undergraduate composition at UCSB since 1991, and was named to its permanent faculty in March, 2000. His own past teachers include William Kraft, Karl Korte, Eugene Kurtz, Jacques Charpentier, and Joseph Schwantner.</p>
+<p>
+In addition to active performing, Jeremy teaches orchestration and is a senior faculty member of the College of Creative Studies, UCSB. As pianist, composer, conductor and organist, he has long been committed to the espousal of new music. His own music has been heard at Carnegie (Weill) Hall; King's College, London; St. John's Smith Square, London; South Bank Centre, London; the Monday Evening Concerts, Los Angeles; St. Paul's Cathedral, London; All Saints Church, London; BMIC, London; and the National Museum of Art, Mexico City. In December 1999 he premiered his <i>The Vision Serpent</i> at the Chopin Academy, Warsaw during a guest residency, also lecturing on the Mayan Cycle.  In October, 2000 he was invited to present excerpts from the cycle as the subject of a colloquium at Kings College, London.   In 2009 "Mayan Cycle" elements were brought to concerts in Instanbul, Turkey as part of a composer-conductor residency at MIAM.   In 2009 an integral album release entirely from the "Mayan Cycle" appeared on innova.
+ </p>
     </dd>
 	
  
