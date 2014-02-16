@@ -319,8 +319,7 @@ In March of 2011, Amanda played in a master class lead by Matthias Schorn of the
     
     <dt id="NowHear">Now Hear Ensemble</dt>
     <dd>Made in California &mdash; April 24</dd>
-    
-    <dd class="bio-picture"> <dd>  </dd>
+    <dd class="bio-picture"><img src="images/NowHear.jpg" width="248" /></dd>
     <dd class="biography"> <p>Founded in Santa Barbara, California in early 2012, the Now Hear Ensemble is a 
 unique combination of clarinet, saxophone, percussion, viola and double bass, 
 whose primary goal is to premier new works by emerging composers. Now Hear 
@@ -329,8 +328,7 @@ Museum of Art, Muddy Waters Café, and recently gave their highly successful Los
 Angeles Debut at REDCAT (Roy and Edna Disney CalArts Theater). In addition to 
 the Made In California Tour, NHE will perform at the Santa Barbara Museum of 
 Contemporary Art in October of this year. Now Hear Ensemble includes Amanda 
-Kritzberg—clarinet, Joel Hunt/Isaac Lopez—saxophone, Anthony Paul Garcia 
-—percussion, Jonathan Morgan—viola, Federico Llach—double bass and artistic 
+Kritzberg&ndash;clarinet, Joel Hunt/Isaac Lopez&ndash;saxophone, Anthony Paul Garcia&ndash;percussion, Jonathan Morgan&ndash;viola, Federico Llach&ndash;double bass and artistic 
 direction.</p>
 
 
