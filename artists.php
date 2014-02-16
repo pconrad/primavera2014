@@ -74,6 +74,7 @@ Barlow, who studied composition under Bernd Alois Zimmermann (1968-1970) and Kar
     
     <dt id="Diemer">Emma Lou Diemer</dt>
      <dd>UCSB Womens Carillon Compositions &mdash; April 21</dd>
+     <dd>Ensemble for Contemporary Music &mdash; April 22</dd>
 			
 		  <dd class="biography">	
 	        <p>Emma Lou Diemer was born in Kansas City, Missouri, on November 24, 1927. Her father, George Willis Diemer, was an educator (college president); her mother, Myrtle Casebolt Diemer, was a church worker and homemaker. Emma Lou played the piano and composed at a very early age and became organist in her church at age 13. Her great interest in composing music continued through College High School in Warrensburg, MO, and she majored in composition at the Yale Music School (BM, 1949; MM, 1950) and at the Eastman School of Music (Ph.D, 1960). She studied in Brussels, Belgium on a Fulbright Scholarship and spent two summers of composition study at the Berkshire Music Center.
@@ -233,7 +234,7 @@ PaulJohnBritainMasterParis) </p>
     
  <dt id="IgnitionDuo">Ignition Duo</dt>
      <dd>Loxodroming III &mdash; April 26</dd>
-			<dd class="bio-picture"><img src="images/Ignitionpromo.jpg" width="248" height="248" /></dd>
+			<dd class="bio-picture"><img src="images/Ignitionpromo.jpg" width="248" /></dd>
 		  <dd class="biography">	
 	        <p>Ignition Duo is a newly formed guitar ensemble devoted to exploring a confluence between the streams of contemporary classical music and extreme rock music through the advocacy of new works for classical and electric guitars alike. 
 </p>
