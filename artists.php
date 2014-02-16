@@ -239,13 +239,13 @@ PaulJohnBritainMasterParis) </p>
 </p>
     </dd>
     
-     <dt id="Hunt">Joel Hunt</dt>
+     <dt id="Kritzberg">Amanda Kritzberg</dt>
      <dd>Made in California, Now Hear Ensemble &mdash; April 24</dd>
 			<dd class="bio-picture"> <dd> </dd>
 		  <dd class="biography">	
-	        <p>Joel Hunt is an active composer and performer, specializing in algorithmic, interactive, and improvisatory electro-acoustic spatial music. As a champion of new music, Joel has premiered new works for saxophone at the Primavera Festival of Contemporary Arts and Digital Media, the California Electronic Music Exchange Concert Series (CEMEC), the United States Navy Band International Saxophone Symposium, and the Ethos NewSound Festival of Contemporary Music. </p>
-
-<p>Joel has performed in various ensemble settings at the Roy and Edna Disney/CalArts Theater (REDCAT), the Santa Barbara Museum of Art, at conferences held by the North American Saxophone Alliance and the College Band Directors National Association, at the Sigurd M. Rascher Centennial Celebration, at the Rochester International Jazz Festival, and at the Ellicottville Jazz Festival. Currently, Joel is collaborating with Santa Barbara based composers to produce a collection of new works for saxophone, which he plans to premier later this year.
+	        <p>Amanda Kritzberg grew up in Los Angeles County and began playing the clarinet at the age of eleven under the direction of her father. Amanda studied with clarinetist Paul Bambach for six years, where she gained experience in the performance of a variety of genres and styles of music. Amanda received her Bachelor of Music degree in clarinet performance in 2011 from UCSB, and her Master of Music degree also in clarinet performance in 2013 from UCSB. Amanda has been involved in a number of diverse music performance ensembles over the years including the UCSB Symphony, Wind Ensemble, Clarinet Choir, and Ensemble for Contemporary Music. Amanda has worked in collaboration and performed with numerous musicians around the Santa Barbara area, as well as played in recording sessions for local composers.</p> 
+<p>
+In March of 2011, Amanda played in a master class lead by Matthias Schorn of the Vienna Philharmonic, and in 2012 performed Copland’s Clarinet Concerto for a master class with Fred Ormand. In July 2012, Amanda was featured as a chamber musician in the “Fiati a Palazzo Rucellai”, a wind chamber music festival in Florence, Italy. Amanda is becoming increasingly involved in music of the contemporary era, and enjoys participating in the compositions of local and upcoming composers as a member of the Now Hear Ensemble, with whom she has debuted numerous new works in venues such as the Santa Barbara Museum of Art and REDCAT (Roy and Edna Disney/CalArts theater), located in the Walt Disney Hall Concert Hall complex in Los Angeles, CA.
 
 </p>
     </dd>
