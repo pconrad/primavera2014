@@ -6,6 +6,7 @@
 	<title>UCSB Primavera Festival 2014 - Credits and Sponsors</title>
 
 	<link rel="stylesheet" type="text/css" href="main.css" media="screen" />
+	 <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
 </head>
 <body>
 
