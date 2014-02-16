@@ -12,7 +12,7 @@
 <script>
 $(document).ready(function(){
   $('.back').each(function(i, obj) {
-      $(this).html("<a href='#schedule'>Back to list of artists</a>");
+      $(this).html("<a href='#artistList'>Back to list of artists</a>");
   });
 });
 
@@ -29,7 +29,7 @@ $(document).ready(function(){
 
 <!--- dividing line -->
 	
-	<h2>Featured Artists</h2>
+	<h2 id="artistList">Featured Artists</h2>
 	
 		<ul class="featured-list">
         
