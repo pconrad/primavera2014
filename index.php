@@ -41,8 +41,9 @@ Contemporary Music (ECM), directed by Jeremy Haladyna, and electroacoustic music
 Center for Research in Electronic Art Technology (CREATE), this year's
 festival also features an international roster of guest artists:
 Elizabeth Hoffman (NYU), Marcus Schmickler (visiting professor at
-CalArts), Lucia Mense (Cologne, Germany), Maud Watel Kazak (Paris), the Now Hear Ensemble, and
-Ignition Duo.
+CalArts), Lucia Mense (Cologne, Germany), Maud Watel Kazak (Paris), 
+the <a href="artists#NowHear">Now Hear Ensemble</a>, 
+and <a href="artists#Ignition">Ignition Duo</a>.
 </p>      
 
 	<h2 id="schedule">Schedule</h2>
