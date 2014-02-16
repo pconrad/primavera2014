@@ -231,7 +231,47 @@ PaulJohnBritainMasterParis) </p>
 </p>
     </dd>
     
-     
+ <dt id="IgnitionDuo">Ignition Duo</dt>
+     <dd>Loxodroming III &mdash; April 26</dd>
+			<dd class="bio-picture"> <dd> </dd>
+		  <dd class="biography">	
+	        <p>Ignition Duo is a newly formed guitar ensemble devoted to exploring a confluence between the streams of contemporary classical music and extreme rock music through the advocacy of new works for classical and electric guitars alike. 
+</p>
+    </dd>
+    
+     <dt id="Hunt">Joel Hunt</dt>
+     <dd>Made in California, Now Hear Ensemble &mdash; April 24</dd>
+			<dd class="bio-picture"> <dd> </dd>
+		  <dd class="biography">	
+	        <p>Joel Hunt is an active composer and performer, specializing in algorithmic, interactive, and improvisatory electro-acoustic spatial music. As a champion of new music, Joel has premiered new works for saxophone at the Primavera Festival of Contemporary Arts and Digital Media, the California Electronic Music Exchange Concert Series (CEMEC), the United States Navy Band International Saxophone Symposium, and the Ethos NewSound Festival of Contemporary Music. </p>
+
+<p>Joel has performed in various ensemble settings at the Roy and Edna Disney/CalArts Theater (REDCAT), the Santa Barbara Museum of Art, at conferences held by the North American Saxophone Alliance and the College Band Directors National Association, at the Sigurd M. Rascher Centennial Celebration, at the Rochester International Jazz Festival, and at the Ellicottville Jazz Festival. Currently, Joel is collaborating with Santa Barbara based composers to produce a collection of new works for saxophone, which he plans to premier later this year.
+
+</p>
+    </dd>
+    
+     <dt id="Hunt">Joel Hunt</dt>
+     <dd>Made in California, Now Hear Ensemble &mdash; April 24</dd>
+			<dd class="bio-picture"> <dd> </dd>
+		  <dd class="biography">	
+	        <p>Joel Hunt is an active composer and performer, specializing in algorithmic, interactive, and improvisatory electro-acoustic spatial music. As a champion of new music, Joel has premiered new works for saxophone at the Primavera Festival of Contemporary Arts and Digital Media, the California Electronic Music Exchange Concert Series (CEMEC), the United States Navy Band International Saxophone Symposium, and the Ethos NewSound Festival of Contemporary Music. </p>
+
+<p>Joel has performed in various ensemble settings at the Roy and Edna Disney/CalArts Theater (REDCAT), the Santa Barbara Museum of Art, at conferences held by the North American Saxophone Alliance and the College Band Directors National Association, at the Sigurd M. Rascher Centennial Celebration, at the Rochester International Jazz Festival, and at the Ellicottville Jazz Festival. Currently, Joel is collaborating with Santa Barbara based composers to produce a collection of new works for saxophone, which he plans to premier later this year.
+
+</p>
+    </dd>
+    
+     <dt id="Hunt">Joel Hunt</dt>
+     <dd>Made in California, Now Hear Ensemble &mdash; April 24</dd>
+			<dd class="bio-picture"> <dd> </dd>
+		  <dd class="biography">	
+	        <p>Joel Hunt is an active composer and performer, specializing in algorithmic, interactive, and improvisatory electro-acoustic spatial music. As a champion of new music, Joel has premiered new works for saxophone at the Primavera Festival of Contemporary Arts and Digital Media, the California Electronic Music Exchange Concert Series (CEMEC), the United States Navy Band International Saxophone Symposium, and the Ethos NewSound Festival of Contemporary Music. </p>
+
+<p>Joel has performed in various ensemble settings at the Roy and Edna Disney/CalArts Theater (REDCAT), the Santa Barbara Museum of Art, at conferences held by the North American Saxophone Alliance and the College Band Directors National Association, at the Sigurd M. Rascher Centennial Celebration, at the Rochester International Jazz Festival, and at the Ellicottville Jazz Festival. Currently, Joel is collaborating with Santa Barbara based composers to produce a collection of new works for saxophone, which he plans to premier later this year.
+
+</p>
+    </dd>
+    
     
 </dl>
 		
