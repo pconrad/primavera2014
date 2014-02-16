@@ -37,6 +37,7 @@
            	<li><a href="#Mense">Lucia Mense</a></li> 
            	<li><a href="#Morgan">Jonathan Morgan</a></li> 
            	<li><a href="#Novak">Marcos Novak</a></li>
+           		<li><a href="#NowHear">Now Hear Ensemble</a></li>
 	            <li><a href="#Roads">Curtis Roads</a></li>  
 	              <li><a href="#Schmickler">Marcus Schmickler</a></li> 
 	              <li><a href="#Wright">Matt Wright</a></li> 
@@ -316,6 +317,23 @@ In March of 2011, Amanda played in a master class lead by Matthias Schorn of the
 </p>
     </dd>
     
+    <dt id="NowHear">Now Hear Ensemble</dt>
+    <dd>Made in California &mdash; April 24</dd>
+    
+    <dd class="bio-picture"> <dd>  </dd>
+    <dd class="biography"> <p>Founded in Santa Barbara, California in early 2012, the Now Hear Ensemble is a 
+unique combination of clarinet, saxophone, percussion, viola and double bass, 
+whose primary goal is to premier new works by emerging composers. Now Hear 
+Ensemble has performed at venues such as Left Coast Books, the Santa Barbara 
+Museum of Art, Muddy Waters Café, and recently gave their highly successful Los 
+Angeles Debut at REDCAT (Roy and Edna Disney CalArts Theater). In addition to 
+the Made In California Tour, NHE will perform at the Santa Barbara Museum of 
+Contemporary Art in October of this year. Now Hear Ensemble includes Amanda 
+Kritzberg—clarinet, Joel Hunt/Isaac Lopez—saxophone, Anthony Paul Garcia 
+—percussion, Jonathan Morgan—viola, Federico Llach—double bass and artistic 
+direction.</p>
+
+
     <dt id="Roads">Curtis Roads</dt>
      <dd>CREATE &mdash; April 23</dd>
 			<dd class="bio-picture"> <dd> </dd>
