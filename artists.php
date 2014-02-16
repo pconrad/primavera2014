@@ -245,7 +245,7 @@ PaulJohnBritainMasterParis) </p>
 </p>
     </dd>
     
- <dt id="IgnitionDuo">Ignition Duo</dt>
+ <dt id="Ignition">Ignition Duo</dt>
      <dd>Loxodroming III &mdash; April 26</dd>
 			<dd class="bio-picture"><img src="images/Ignitionpromo.jpg" width="248" /></dd>
 		  <dd class="biography">	
