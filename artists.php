@@ -167,7 +167,19 @@ School. His website can be found at <a href="http://www.joelfeigin.com">www.joel
 -->
 <dt id="Fricker">Peter Racine Fricker</dt>
 	<dd>Ensemble for Contemporary Music &mdash; April 22</dd>
-			
+
+ <dd class="biography">	
+	        <p>Peter Racine Fricker (1920-1990) joined the faculty at the University of California, Santa Barbara in 1964 as a visiting professor, and became a regular faculty member in 1970. In 1979, he was appointed Faculty Research Lecturer, and remained an active professor at the University until his death in 1990.</p>
+
+<p>In his will, he arranged for his estate to be used to fund an endowment for the graduate program in Composition at UCSB. The <i>Peter Racine Fricker Fellowship for Studies in Composition</i> provides fellowships for graduate students as well as postdoctoral students in the Composition Program of the Music Department at the University of California at Santa Barbara. 
+</p>
+<p>Fricker's substantial output of symphonies, concertos and string quartets formed an important contribution to the growth of a more progressive, European outlook among British composers in the immediate postwar years.  A contrapuntalist, he was influenced by the examples of Bartok and Hindemtih, though using serial methods as well. His vocal and choral works were few in number, though the oratorio <i>The Vision of Judgement</i> remains highly regarded.
+
+</p>
+    </dd>		
+    
+    <dt id="Garcia">Anthony Paul Garcia</dt>
+	<dd>Made in California, Now Hear Ensemble &mdash; April 24</dd>
 		  <dd class="biography">	
 	        <p>Anthony Paul Garcia, a native of Phoenix, AZ, has been percussing since the age of 13. Anthony has enjoyed playing with an eclectic variety of ensembles throughout his 12 years of performance, including: marching bands and drum corps, contemporary music ensembles, steel drum ensembles, wind ensembles, orchestras, percussion ensembles, African drumming groups, Brazilian baterias, and laptop orchestras. Anthony has a passion for new music and appreciates any opportunity to perform.</p> 
 <p>
@@ -177,21 +189,7 @@ Anthony is also a composer and has written numerous works for the Now Hear Ensem
 </p>
     </dd>
     
-<dt id="Garcia">Anthony Paul Garcia</dt>
-	<dd>Made in California, Now Hear Ensemble &mdash; April 24</dd>
-			
-		  <dd class="biography">	
-	        <p>Peter Racine Fricker (1920-1990) joined the faculty at the University of California, Santa Barbara in 1964 as a visiting professor, and became a regular faculty member in 1970. In 1979, he was appointed Faculty Research Lecturer, and remained an active professor at the University until his death in 1990.</p>
 
-<p>In his will, he arranged for his estate to be used to fund an endowment for the graduate program in Composition at UCSB. The <i>Peter Racine Fricker Fellowship for Studies in Composition</i> provides fellowships for graduate students as well as postdoctoral students in the Composition Program of the Music Department at the University of California at Santa Barbara. 
-</p>
-<p>Fricker's substantial output of symphonies, concertos and string quartets formed an important contribution to the growth of a more progressive, European outlook among British composers in the immediate postwar years.  A contrapuntalist, he was influenced by the examples of Bartok and Hindemtih, though using serial methods as well. His vocal and choral works were few in number, though the oratorio <i>The Vision of Judgement</i> remains highly regarded.
-
-</p>
-    </dd>
-
-    
-  
 	<dt id="Haladyna">Jeremy Haladyna</dt>
 			<dd>Ensemble for Contemporary Music &mdash; April 22</dd>
 		<dd class="bio-picture"><img src="images/haladyna.jpg" width="200" height="308" alt="Jeremy Haladyna" /></dd>
