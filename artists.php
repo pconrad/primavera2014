@@ -357,7 +357,7 @@ In March of 2011, Amanda played in a master class lead by Matthias Schorn of the
 
 			<dd class="bio-picture"> <dd> </dd>
 		  <dd class="biography">	
-	        <p>Professor Marcos Novak, director of transLAB, is a pioneer in the field of virtual architecture. In the mid 90s, his contribution to Inteational architectural discourse was further expanded by the coining and definition of the term "Transarchitectures" His approach: "we conceive algorithmically (morphogenesis); we model numerically (rapid prototyping); we build robotically (new tectonics); we inhabit interactively (intelligent space); we telecommunicate instantly (pantopicon); we are informed immersively (liquid architectures); we socialise nonlocally (nonlocal public domain); we evert virtuality (transarchitectures)". He has also posited a new "Soft Babylon," a theoretical stance which posits that our digitized architectural palette is causing us to create a wired Situationist city, while we struggle with some of the massive paradigm shifts that our era will and must face. Whilst articulating highly fluent theory, he has practiced, producing beautiful ethereal architectures that flux and shimmer as his algorithms run their designed logics. He received the Masters of Architecture at Ohio State university in 1983. Since that time he has taught at Ohio State, University of Texas Austin, the Architecture program at UCLA, the Digital Media program at UCLA, and the Art Center College of Design, in Pasadena. He has published, lectured and exhibited his work internationally. 
+	        <p>Marcos Novak is a pioneer in the field of virtual architecture. In the mid 90s, his contribution to International architectural discourse was further expanded by the coining and definition of the term "Transarchitectures". His approach: "we conceive algorithmically (morphogenesis); we model numerically (rapid prototyping); we build robotically (new tectonics); we inhabit interactively (intelligent space); we telecommunicate instantly (pantopicon); we are informed immersively (liquid architectures); we socialise nonlocally (nonlocal public domain); we evert virtuality (transarchitectures)." He has also posited a new "Soft Babylon," a theoretical stance which posits that our digitized architectural palette is causing us to create a wired Situationist city, while we struggle with some of the massive paradigm shifts that our era will and must face. Whilst articulating highly fluent theory, he has practiced, producing beautiful ethereal architectures that flux and shimmer as his algorithms run their designed logics. He received the Masters of Architecture at Ohio State university in 1983. Since that time he has taught at Ohio State, University of Texas Austin, the Architecture program at UCLA, the Digital Media program at UCLA, Art Center College of Art & design, Pasadena. He has published, lectured and exhibited his work internationally.
 </p>
     </dd><p class="back"></p>
 
@@ -374,7 +374,7 @@ Angeles Debut at REDCAT (Roy and Edna Disney CalArts Theater). In addition to
 the Made In California Tour, NHE will perform at the Santa Barbara Museum of 
 Contemporary Art in October of this year. Now Hear Ensemble includes Amanda 
 Kritzberg&ndash;clarinet, Joel Hunt/Isaac Lopez&ndash;saxophone, Anthony Paul Garcia&ndash;percussion, Jonathan Morgan&ndash;viola, Federico Llach&ndash;double bass and artistic 
-direction.</p></dd><p class="back"></p>
+direction.  <li><a href="http://nowhearensemble.com/">Website</a>  </p></dd><p class="back"></p>
 
 
 
