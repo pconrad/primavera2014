@@ -163,7 +163,7 @@ and Professor of Composition at the University of California Santa Barbara, Feig
 
 studied with Nadia Boulanger at Fontainebleau and with Roger Sessions at The Juilliard 
 
-School. His website can be found at <a href="http://www.joelfeigin.com">www.joelfeigin.com</a>.</p>
+School. <li><a href="http://www.joelfeigin.com">Website</a></li></p>
 
 	</dd><p class="back"></p>
 
