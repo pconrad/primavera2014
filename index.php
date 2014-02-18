@@ -94,7 +94,7 @@ Halsted, and Alexis Crawshaw.</p>
 <dd>
 <p><i>Ensemble for Contemporary Music (ECM)</i></p>
 
-<p>Members of UCSB's ECM will perform works by Cristina Lord, Peter Racine Fricker, Emma Lou Diemer, and others.</p>
+<p>Members of UCSB's ECM will perform works by Emma Lou Diemer, Peter Racine Fricker, Leslie Hogan, Cristina Lord, and others.</p>
 
 <p>Lotte Lehmann Concert Hall.  Admission $10 general/$5 student</p>
 
