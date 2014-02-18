@@ -42,6 +42,7 @@ $(document).ready(function(){
            	<li><a href="#Haladyna">Jeremy Haladyna</a></li>
            	<li><a href="#Halsted">Margo Halsted</a></li>
            		<li><a href="#Hoffman">Elizabeth Hoffman</a></li>
+           		<li><a href="#Hogan">Leslie Hogan</a></li>
            		<li><a href="#Hunt">Joel Hunt</a></li> 
            		<li><a href="#Ignition">Ignition Duo</a></li> 
            		    <li><a href="#Kazak">Maud Watel Kazak</a></li> 
@@ -258,6 +259,17 @@ In addition to active performing, Jeremy teaches orchestration and is a senior f
 </p>
     </dd><p class="back"></p>
 
+
+  <dt id="Hogan">Leslie Hogan</dt>
+     <dd>Ensemble for Contemporary Music  &mdash; April 22</dd>
+			<dd class="bio-picture"> <dd> </dd>
+		  <dd class="biography">	
+	        <p>Leslie Hogan received her principal composition training at the University of Kansas and the University of Michigan, where she worked with Leslie Bassett, William Albright, and George Balch Wilson.  Her music often reflects a longtime fascination with other art forms and with the potential of music to reflect or respond to visual stimuli from the natural world. Several recent works, including <i>Life Studies</i>, for large mixed ensemble (2011) and <i>Image as Music</i>, for solo piano (2013) are a direct outgrowth of her explorations of the relationships between art and psychoanalysis.  Those explorations began in 2004, with a commission to write the score for Carol Press's Holocaust inspired dance piece, <i>Splinter of Hope</i>, and eventually led to participation on multidisciplinary panel presentations on aesthetic gesture at psychoanalytical conferences in Santa Fe, Marina Del Rey, California, Mexico City, and at the Spoleto Festival, Spoleto, Italy.</p>
+	        <p>In 1999 she co&#45;founded <i>Current Sounds</i>, a new music consortium based in Santa Barbara, California.  She served on the board of the Chamber Music Society of Santa Barbara, an organization that promotes the performance and appreciation of chamber music repertory through sponsoring workshops, concerts, and outreach activities, from 1999-2013.  Currently, she is a member of the Composition Program Committee for the College Music Society and is a performing member of the Santa Barbara Music Club.  She has received awards from the American Academy of Arts and Letters (Charles Ives Fellowship, 2002; Charles Ives Scholarship, 1993), the American Music Center, ASCAP, and the Chicago Civic Orchestra, among others.</p>
+	        <p>Dr. Hogan has taught composition in the College of Creative Studies at the University of California&#45;Santa Barbara since 1995.
+</p>
+    </dd><p class="back"></p>
+    
     
     
     <dt id="Hunt">Joel Hunt</dt>
