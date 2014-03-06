@@ -159,11 +159,19 @@ Featuring the CREATE ensemble, directed by Matt Wright
 
 <p>The Made in California project is an exciting collaborative concert series with 11 composers throughout the state. Now Hear Ensemble believes that collaboration is a tremendously useful mode of creation for new music. The landscape of Californian music is rich and diverse, and as a part of this artistic realm, NHE seeks to create an accessible, uniform medium for the interchange of ideas between composers, performers and audiences. Made in California will be presented in San Diego, Los Angeles, Santa Barbara and San Francisco.</p>
 
-<p>Music by Eoin Callery, Carolyn Chen, Todd Lerew, Mateo Lugo, Daniel Miller, Jon Myers, Iv&aacute;n Naranjo, Nick Norton, Dan VanHassel, David Werfelmann and Kevin Zhang&mdash;composers with ties to CalArts, Mills College, Stanford University, UC Berkeley, UC San Diego, UC Santa Barbara and USC.
-Members of Now Hear Ensemble are Federico Llach, Double bass/Artistic Director; Jonathan Morgan, viola; Anthony Garcia, percussion; Joel Hunt, saxophone; Amanda Kritzberg, clarinet.</p>
+<p>The Primvera concert will feature:</p>
+Todd Lerew&mdash;<i>The Variable Speed Machine-Wound Chorus</i><br />
+Eoin Callery&mdash;<i>And After</i><br />
+Kevin Zhang&mdash;<i>Punctuations, in/over silence</i><br />
+Carolyn Chen&mdash;<i>Made in China, Made in California</i><br />
+Iv&aacute;n Naranjo&mdash;<i>into this dislocated assemblage, this piece of damaged geology</i><br />
+Dan VanHassel&mdash;<i>Ghost in the Machine</i><br />
+<br />
+<p>Members of Now Hear Ensemble are Federico Llach, Double bass/Artistic Director; Jonathan Morgan, viola; Anthony Garcia, percussion; Joel Hunt, saxophone; Amanda Kritzberg, clarinet.</p>
 
 <p>Old Little Theater, Free</p>
  
+
 
 </dd>
 <p class="back"></p>
