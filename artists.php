@@ -294,7 +294,7 @@ In addition to active performing, Jeremy teaches orchestration and is a senior f
     </dd><p class="back"></p>
 
     
- 
+ <br />
  <dt id="Kazak">Maud Watel Kazak</dt>
       <dd>Des Gestes Touchants &mdash; April 24</dd>
              <dd>La perception transamplith&eacute;&acirc;trale &mdash; April 25</dd>
