@@ -166,7 +166,7 @@ Kevin Zhang&mdash;<i>Punctuations, in/over silence</i><br />
 Carolyn Chen&mdash;<i>Made in China, Made in California</i><br />
 Iv&aacute;n Naranjo&mdash;<i>into this dislocated assemblage, this piece of damaged geology</i><br />
 Dan VanHassel&mdash;<i>Ghost in the Machine</i><br />
-<br />
+
 <p>Members of Now Hear Ensemble are Federico Llach, Double bass/Artistic Director; Jonathan Morgan, viola; Anthony Garcia, percussion; Joel Hunt, saxophone; Amanda Kritzberg, clarinet.</p>
 
 <p>Old Little Theater, Free</p>
