@@ -159,7 +159,7 @@ Featuring the CREATE ensemble, directed by Matt Wright
 
 <p>The Made in California project is an exciting collaborative concert series with 11 composers throughout the state. Now Hear Ensemble believes that collaboration is a tremendously useful mode of creation for new music. The landscape of Californian music is rich and diverse, and as a part of this artistic realm, NHE seeks to create an accessible, uniform medium for the interchange of ideas between composers, performers and audiences. Made in California will be presented in San Diego, Los Angeles, Santa Barbara and San Francisco.</p>
 
-<p>The Primvera concert will feature:</p>
+<p>The Primavera concert will feature:</p>
 Todd Lerew&mdash;<i>The Variable Speed Machine-Wound Chorus</i><br />
 Eoin Callery&mdash;<i>And After</i><br />
 Kevin Zhang&mdash;<i>Punctuations, in/over silence</i><br />
