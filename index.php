@@ -92,21 +92,22 @@ Halsted, and Alexis Crawshaw.</p>
 <dt id="ecm">Tuesday, April 22, 8 PM</dt>
 
 <dd>
-<p><i>Ensemble for Contemporary Music (ECM):  TEXT ME</i></p>
+<p><i>Text Me</i></p>
+<p>UCSB's Ensemble for Contemporary Music (ECM), directed by Jeremy Haladyna</p>
 
 <p>Here is a program as rich in verbal eloquence as musical--new works by
 Leslie A. Hogan and Cristina Lord anchor this program, both of them
-informed and enriched by American poetry.  Dr. Hogan's new "Suite for the Senses" features her pianistic responses to poetry by Californian David Shaddock.  Jeff Mills, faculty in UCSB's Department of Theater and Dance, offers dramatic readings of the very poems that inspire Hogan's work.</p>
-<p>Cristina Lord's prize-winning "Songs of American Women" receive their
+informed and enriched by American poetry.  Dr. Hogan's new <i>Suite for the Senses</i> features her pianistic responses to poetry by Californian David Shaddock.  Jeff Mills, faculty in UCSB's Department of Theater and Dance, offers dramatic readings of the very poems that inspire Hogan's work.</p>
+<p>Cristina Lord's prize-winning <i>Songs of American Women</i> receive their
 world premiere with the composer at the piano and mezzo-soprano Alice
 Chung delivering sensitive settings of Emily Dickinson, Louise Bogan,
 Sylvia Plath and others.</p>
 <p>The program also pays tribute to two past faculty composers, with
 texts of the psalmist mated to Emma Lou Diemer's powerfully effective
-music for organ and percussion (from her "Psalms:" Psalms 3, 44 and 67).
+music for organ and percussion (from her <i>Psalms</i>: Psalms 3, 44 and 67).
 There are equally urbane miniatures for piano by Peter Racine Fricker,
-from his opus 95 set, "Diversions," and as musical dessert, the new piano
-confection, "Gooseberry Pie for Liszt and Me" by director Jeremy Haladyna.
+from his opus 95 set, <i>Diversions</i>, and as musical dessert, the new piano
+confection, <i>Gooseberry Pie for Liszt and Me</i> by director Jeremy Haladyna.
 </p>
 
 <p>Lotte Lehmann Concert Hall.  Admission $10 general/$5 student</p>
