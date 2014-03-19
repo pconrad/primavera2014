@@ -120,11 +120,18 @@ confection, <i>Gooseberry Pie for Liszt and Me</i> by director Jeremy Haladyna.
 <dt id="create">Wednesday, April 23, 8 PM</dt>
 
 <dd>
-<p><i>CREATE</i></p>
+<p><i>Creations 2014</i></p>
+Center for Research in Electronic Arts Technology (CREATE)
 
-<p>Electroacoustic music from UCSB's Center for Research in Electronic Arts Technology (CREATE), with guest artists Elizabeth Hoffman from NYU and Marcus Schmickler, Visiting Professor at Cal Arts.  It will also feature the World Premiere of a new electronic work by Joel Feigin, musical assistant Ron Sedgwick.</p>
+<p>CREATIONS 2014 features two esteemed guests, New York-based composer 
+Elizabeth Hoffmann, and Cologne-based composer Markus Schmickler. A 
+special presentation is a world premiere of a new electronic work by UCSB faculty 
+composer Joel Feigin, in collaboration with Ron Sedgwick. UCSB’s Corwin Chair 
+of Composition, Clarence Barlow, will present a new audiovisual composition. In 
+addition the CREATE Ensemble–a band of laptop/tablet musicians led by Matt 
+Wright, will premiere their latest experimental interactive work live in concert.</p>
 
-<p>Lotte Lehmann Concert Hall.  Admission $10 general/$5 student</p>
+<p>Lotte Lehmann Concert Hall. Free</p>
 
 
 <!-- next event -->
