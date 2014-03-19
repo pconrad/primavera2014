@@ -49,7 +49,8 @@
 		<li>College of Creative Studies Webmaster &mdash; Phillip Conrad</li>
 	    <li>Primavera Butterfly Image &mdash; David Gordon</li>
 		    <li>Image under menu &mdash; courtesy, Katherine Saxon</li>
-	  <li>Sidebar  Image &mdash; Nicholas Jackson, "Floral Loxodrome" (2009)</li>
+	  <li>Sidebar  Image &mdash; <a href="http://nic022.deviantart.com/art/Incendia-Ex-Loxodrome-374465580">Incendia Ex Loxodrome</a> licensed under a 
+Creative Commons Attribution-Noncommercial-No Derivative Works 3.0 License.</li>
 
   </ul>
 
@@ -59,7 +60,7 @@
 
     
 <dl class="committee">
- <dt>Leslie Hogan, Chair</dt><dd>College of Creative Studies</dd>
+ <dt>Leslie Hogan, Coordinator</dt><dd>College of Creative Studies</dd>
  <dt>Clarence Barlow</dt><dd>Music Department</dd>
  <dt>Alexis Crawshaw</dt><dd>Media Arts and Technology Program</dd>
  <dt>Jeremy Haladyna</dt><dd>Music Department/College of Creative Studies</dd>
