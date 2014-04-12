@@ -250,10 +250,9 @@ from a heart-rate sensor.</p>
 <p><i>Loxodroming III, with Ignition Duo</i></p>
 
 
-
 <p>Ignition Duo, the Bay Area guitar duo (Ramon Fermin and David
 Gonzales), will return to Santa Barbara to perform an entire program
-of works from UCSB composers for the PRIMAVERA Festival. Close to ten
+of works from UCSB composers for the PRIMAVERA Festival. Eight new
 works from UCSB students and alumni were specially written for the duo
 and will be premiered in the festival. Ignition Duo has gained a
 significant experience with programs and repertory specially composed
@@ -261,8 +260,8 @@ for them as their commitment to new music is very exciting and
 inspiring. Their project ranges from performance with acoustic
 classical guitars to electric guitars and also includes interaction
 with fixed media and live electronics. The concert will feature works
-from Barel, Cho, Crawshaw, Evans, Garcia, Gordon, Jette, Norton,
-Rolle, Taylor and Yoon.</p>
+from Barel, Crawshaw, Evans, Garcia, Gordon, Norton,
+Rolle, and Taylor.</p>
 
 <p>Lotte Lehmann Concert Hall, Free</p>
 
